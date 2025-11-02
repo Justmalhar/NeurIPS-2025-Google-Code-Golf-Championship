@@ -1,0 +1,1 @@
+def p(n,d=dict.fromkeys):return[n[0]]if(n:=[[*d(r)]for r in n]).count(n[0])==len(n)else[[c]for c in d(sum(n,[]))]

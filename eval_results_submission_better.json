@@ -1,0 +1,6849 @@
+{
+  "summary": {
+    "src_dir": "submission_better",
+    "total_tasks": 400,
+    "present": 400,
+    "solved": 398,
+    "failed": 2,
+    "missing": 0,
+    "total_score": 908891.002,
+    "avg_score": 2272.227505,
+    "total_bytes_present": 86281,
+    "avg_bytes_present": 215.7025
+  },
+  "failed_tasks": [
+    {
+      "task_id": 169,
+      "file": "submission_better/task169.py",
+      "bytes": 0,
+      "score": 0.001,
+      "arc_agi": {
+        "pass": 0,
+        "fail": 4
+      },
+      "arc_gen": {
+        "pass": 0,
+        "fail": 262
+      },
+      "error": "SyntaxError: invalid syntax (<string>, line 3)"
+    },
+    {
+      "task_id": 330,
+      "file": "submission_better/task330.py",
+      "bytes": 172,
+      "score": 0.001,
+      "arc_agi": {
+        "pass": 0,
+        "fail": 4
+      },
+      "arc_gen": {
+        "pass": 0,
+        "fail": 262
+      },
+      "error": "Traceback (most recent call last):\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/arc_utils/eval_decompressed.py\", line 61, in _verify_split\n    user_arr = _run_and_sanitize(program, ex[\"input\"])\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/arc_utils/eval_decompressed.py\", line 48, in _run"
+    }
+  ],
+  "missing_tasks": [],
+  "tasks": [
+    {
+      "task_id": 1,
+      "file": "submission_better/task001.py",
+      "exists": true,
+      "bytes": 61,
+      "score": 2439.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 2,
+      "file": "submission_better/task002.py",
+      "exists": true,
+      "bytes": 196,
+      "score": 2304.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 3,
+      "file": "submission_better/task003.py",
+      "exists": true,
+      "bytes": 65,
+      "score": 2435.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 4,
+      "file": "submission_better/task004.py",
+      "exists": true,
+      "bytes": 194,
+      "score": 2306.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 5,
+      "file": "submission_better/task005.py",
+      "exists": true,
+      "bytes": 288,
+      "score": 2212.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 6,
+      "file": "submission_better/task006.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 7,
+      "file": "submission_better/task007.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 8,
+      "file": "submission_better/task008.py",
+      "exists": true,
+      "bytes": 186,
+      "score": 2314.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 9,
+      "file": "submission_better/task009.py",
+      "exists": true,
+      "bytes": 263,
+      "score": 2237.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 10,
+      "file": "submission_better/task010.py",
+      "exists": true,
+      "bytes": 94,
+      "score": 2406.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 11,
+      "file": "submission_better/task011.py",
+      "exists": true,
+      "bytes": 189,
+      "score": 2311.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 12,
+      "file": "submission_better/task012.py",
+      "exists": true,
+      "bytes": 217,
+      "score": 2283.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 13,
+      "file": "submission_better/task013.py",
+      "exists": true,
+      "bytes": 246,
+      "score": 2254.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 14,
+      "file": "submission_better/task014.py",
+      "exists": true,
+      "bytes": 129,
+      "score": 2371.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 15,
+      "file": "submission_better/task015.py",
+      "exists": true,
+      "bytes": 142,
+      "score": 2358.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 16,
+      "file": "submission_better/task016.py",
+      "exists": true,
+      "bytes": 55,
+      "score": 2445.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 17,
+      "file": "submission_better/task017.py",
+      "exists": true,
+      "bytes": 256,
+      "score": 2244.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 18,
+      "file": "submission_better/task018.py",
+      "exists": true,
+      "bytes": 429,
+      "score": 2071.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 19,
+      "file": "submission_better/task019.py",
+      "exists": true,
+      "bytes": 229,
+      "score": 2271.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 20,
+      "file": "submission_better/task020.py",
+      "exists": true,
+      "bytes": 265,
+      "score": 2235.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 21,
+      "file": "submission_better/task021.py",
+      "exists": true,
+      "bytes": 79,
+      "score": 2421.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 22,
+      "file": "submission_better/task022.py",
+      "exists": true,
+      "bytes": 206,
+      "score": 2294.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 23,
+      "file": "submission_better/task023.py",
+      "exists": true,
+      "bytes": 295,
+      "score": 2205.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 24,
+      "file": "submission_better/task024.py",
+      "exists": true,
+      "bytes": 144,
+      "score": 2356.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 25,
+      "file": "submission_better/task025.py",
+      "exists": true,
+      "bytes": 226,
+      "score": 2274.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 26,
+      "file": "submission_better/task026.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 27,
+      "file": "submission_better/task027.py",
+      "exists": true,
+      "bytes": 316,
+      "score": 2184.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 28,
+      "file": "submission_better/task028.py",
+      "exists": true,
+      "bytes": 139,
+      "score": 2361.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 29,
+      "file": "submission_better/task029.py",
+      "exists": true,
+      "bytes": 223,
+      "score": 2277.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 30,
+      "file": "submission_better/task030.py",
+      "exists": true,
+      "bytes": 212,
+      "score": 2288.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 31,
+      "file": "submission_better/task031.py",
+      "exists": true,
+      "bytes": 51,
+      "score": 2449.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 32,
+      "file": "submission_better/task032.py",
+      "exists": true,
+      "bytes": 39,
+      "score": 2461.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 33,
+      "file": "submission_better/task033.py",
+      "exists": true,
+      "bytes": 89,
+      "score": 2411.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 34,
+      "file": "submission_better/task034.py",
+      "exists": true,
+      "bytes": 312,
+      "score": 2188.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 35,
+      "file": "submission_better/task035.py",
+      "exists": true,
+      "bytes": 231,
+      "score": 2269.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 36,
+      "file": "submission_better/task036.py",
+      "exists": true,
+      "bytes": 196,
+      "score": 2304.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 37,
+      "file": "submission_better/task037.py",
+      "exists": true,
+      "bytes": 226,
+      "score": 2274.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 38,
+      "file": "submission_better/task038.py",
+      "exists": true,
+      "bytes": 107,
+      "score": 2393.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 39,
+      "file": "submission_better/task039.py",
+      "exists": true,
+      "bytes": 160,
+      "score": 2340.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 40,
+      "file": "submission_better/task040.py",
+      "exists": true,
+      "bytes": 113,
+      "score": 2387.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 41,
+      "file": "submission_better/task041.py",
+      "exists": true,
+      "bytes": 64,
+      "score": 2436.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 42,
+      "file": "submission_better/task042.py",
+      "exists": true,
+      "bytes": 341,
+      "score": 2159.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 43,
+      "file": "submission_better/task043.py",
+      "exists": true,
+      "bytes": 123,
+      "score": 2377.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 44,
+      "file": "submission_better/task044.py",
+      "exists": true,
+      "bytes": 580,
+      "score": 1920.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 45,
+      "file": "submission_better/task045.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 46,
+      "file": "submission_better/task046.py",
+      "exists": true,
+      "bytes": 328,
+      "score": 2172.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 47,
+      "file": "submission_better/task047.py",
+      "exists": true,
+      "bytes": 126,
+      "score": 2374.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 48,
+      "file": "submission_better/task048.py",
+      "exists": true,
+      "bytes": 180,
+      "score": 2320.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 8,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 49,
+      "file": "submission_better/task049.py",
+      "exists": true,
+      "bytes": 187,
+      "score": 2313.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 50,
+      "file": "submission_better/task050.py",
+      "exists": true,
+      "bytes": 192,
+      "score": 2308.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 9,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 51,
+      "file": "submission_better/task051.py",
+      "exists": true,
+      "bytes": 283,
+      "score": 2217.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 52,
+      "file": "submission_better/task052.py",
+      "exists": true,
+      "bytes": 42,
+      "score": 2458.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 53,
+      "file": "submission_better/task053.py",
+      "exists": true,
+      "bytes": 24,
+      "score": 2476.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 54,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 54,
+      "file": "submission_better/task054.py",
+      "exists": true,
+      "bytes": 496,
+      "score": 2004.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 55,
+      "file": "submission_better/task055.py",
+      "exists": true,
+      "bytes": 233,
+      "score": 2267.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 56,
+      "file": "submission_better/task056.py",
+      "exists": true,
+      "bytes": 76,
+      "score": 2424.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 10,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 36,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 57,
+      "file": "submission_better/task057.py",
+      "exists": true,
+      "bytes": 68,
+      "score": 2432.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 58,
+      "file": "submission_better/task058.py",
+      "exists": true,
+      "bytes": 200,
+      "score": 2300.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 16,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 59,
+      "file": "submission_better/task059.py",
+      "exists": true,
+      "bytes": 244,
+      "score": 2256.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 60,
+      "file": "submission_better/task060.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 61,
+      "file": "submission_better/task061.py",
+      "exists": true,
+      "bytes": 257,
+      "score": 2243.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 62,
+      "file": "submission_better/task062.py",
+      "exists": true,
+      "bytes": 290,
+      "score": 2210.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 63,
+      "file": "submission_better/task063.py",
+      "exists": true,
+      "bytes": 137,
+      "score": 2363.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 64,
+      "file": "submission_better/task064.py",
+      "exists": true,
+      "bytes": 384,
+      "score": 2116.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 65,
+      "file": "submission_better/task065.py",
+      "exists": true,
+      "bytes": 153,
+      "score": 2347.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 66,
+      "file": "submission_better/task066.py",
+      "exists": true,
+      "bytes": 599,
+      "score": 1901.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 67,
+      "file": "submission_better/task067.py",
+      "exists": true,
+      "bytes": 33,
+      "score": 2467.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 68,
+      "file": "submission_better/task068.py",
+      "exists": true,
+      "bytes": 263,
+      "score": 2237.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 69,
+      "file": "submission_better/task069.py",
+      "exists": true,
+      "bytes": 216,
+      "score": 2284.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 70,
+      "file": "submission_better/task070.py",
+      "exists": true,
+      "bytes": 164,
+      "score": 2336.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 71,
+      "file": "submission_better/task071.py",
+      "exists": true,
+      "bytes": 450,
+      "score": 2050.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 72,
+      "file": "submission_better/task072.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 73,
+      "file": "submission_better/task073.py",
+      "exists": true,
+      "bytes": 76,
+      "score": 2424.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 11,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 74,
+      "file": "submission_better/task074.py",
+      "exists": true,
+      "bytes": 335,
+      "score": 2165.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 75,
+      "file": "submission_better/task075.py",
+      "exists": true,
+      "bytes": 204,
+      "score": 2296.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 76,
+      "file": "submission_better/task076.py",
+      "exists": true,
+      "bytes": 420,
+      "score": 2080.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 77,
+      "file": "submission_better/task077.py",
+      "exists": true,
+      "bytes": 558,
+      "score": 1942.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 78,
+      "file": "submission_better/task078.py",
+      "exists": true,
+      "bytes": 102,
+      "score": 2398.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 79,
+      "file": "submission_better/task079.py",
+      "exists": true,
+      "bytes": 240,
+      "score": 2260.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 80,
+      "file": "submission_better/task080.py",
+      "exists": true,
+      "bytes": 435,
+      "score": 2065.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 81,
+      "file": "submission_better/task081.py",
+      "exists": true,
+      "bytes": 155,
+      "score": 2345.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 82,
+      "file": "submission_better/task082.py",
+      "exists": true,
+      "bytes": 109,
+      "score": 2391.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 83,
+      "file": "submission_better/task083.py",
+      "exists": true,
+      "bytes": 40,
+      "score": 2460.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 84,
+      "file": "submission_better/task084.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 171,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 85,
+      "file": "submission_better/task085.py",
+      "exists": true,
+      "bytes": 89,
+      "score": 2411.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 86,
+      "file": "submission_better/task086.py",
+      "exists": true,
+      "bytes": 478,
+      "score": 2022.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 87,
+      "file": "submission_better/task087.py",
+      "exists": true,
+      "bytes": 36,
+      "score": 2464.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 88,
+      "file": "submission_better/task088.py",
+      "exists": true,
+      "bytes": 197,
+      "score": 2303.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 89,
+      "file": "submission_better/task089.py",
+      "exists": true,
+      "bytes": 543,
+      "score": 1957.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 90,
+      "file": "submission_better/task090.py",
+      "exists": true,
+      "bytes": 275,
+      "score": 2225.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 91,
+      "file": "submission_better/task091.py",
+      "exists": true,
+      "bytes": 124,
+      "score": 2376.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 92,
+      "file": "submission_better/task092.py",
+      "exists": true,
+      "bytes": 189,
+      "score": 2311.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 93,
+      "file": "submission_better/task093.py",
+      "exists": true,
+      "bytes": 261,
+      "score": 2239.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 94,
+      "file": "submission_better/task094.py",
+      "exists": true,
+      "bytes": 242,
+      "score": 2258.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 95,
+      "file": "submission_better/task095.py",
+      "exists": true,
+      "bytes": 110,
+      "score": 2390.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 96,
+      "file": "submission_better/task096.py",
+      "exists": true,
+      "bytes": 796,
+      "score": 1704.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 97,
+      "file": "submission_better/task097.py",
+      "exists": true,
+      "bytes": 262,
+      "score": 2238.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 98,
+      "file": "submission_better/task098.py",
+      "exists": true,
+      "bytes": 162,
+      "score": 2338.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 99,
+      "file": "submission_better/task099.py",
+      "exists": true,
+      "bytes": 491,
+      "score": 2009.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 100,
+      "file": "submission_better/task100.py",
+      "exists": true,
+      "bytes": 154,
+      "score": 2346.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 101,
+      "file": "submission_better/task101.py",
+      "exists": true,
+      "bytes": 529,
+      "score": 1971.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 102,
+      "file": "submission_better/task102.py",
+      "exists": true,
+      "bytes": 505,
+      "score": 1995.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 103,
+      "file": "submission_better/task103.py",
+      "exists": true,
+      "bytes": 38,
+      "score": 2462.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 8,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 215,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 104,
+      "file": "submission_better/task104.py",
+      "exists": true,
+      "bytes": 153,
+      "score": 2347.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 4,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 105,
+      "file": "submission_better/task105.py",
+      "exists": true,
+      "bytes": 382,
+      "score": 2118.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 106,
+      "file": "submission_better/task106.py",
+      "exists": true,
+      "bytes": 97,
+      "score": 2403.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 107,
+      "file": "submission_better/task107.py",
+      "exists": true,
+      "bytes": 307,
+      "score": 2193.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 108,
+      "file": "submission_better/task108.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 109,
+      "file": "submission_better/task109.py",
+      "exists": true,
+      "bytes": 193,
+      "score": 2307.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 110,
+      "file": "submission_better/task110.py",
+      "exists": true,
+      "bytes": 201,
+      "score": 2299.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 111,
+      "file": "submission_better/task111.py",
+      "exists": true,
+      "bytes": 98,
+      "score": 2402.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 112,
+      "file": "submission_better/task112.py",
+      "exists": true,
+      "bytes": 181,
+      "score": 2319.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 113,
+      "file": "submission_better/task113.py",
+      "exists": true,
+      "bytes": 28,
+      "score": 2472.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 114,
+      "file": "submission_better/task114.py",
+      "exists": true,
+      "bytes": 100,
+      "score": 2400.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 115,
+      "file": "submission_better/task115.py",
+      "exists": true,
+      "bytes": 113,
+      "score": 2387.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 116,
+      "file": "submission_better/task116.py",
+      "exists": true,
+      "bytes": 20,
+      "score": 2480.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 117,
+      "file": "submission_better/task117.py",
+      "exists": true,
+      "bytes": 882,
+      "score": 1618.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 118,
+      "file": "submission_better/task118.py",
+      "exists": true,
+      "bytes": 280,
+      "score": 2220.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 119,
+      "file": "submission_better/task119.py",
+      "exists": true,
+      "bytes": 275,
+      "score": 2225.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 120,
+      "file": "submission_better/task120.py",
+      "exists": true,
+      "bytes": 338,
+      "score": 2162.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 121,
+      "file": "submission_better/task121.py",
+      "exists": true,
+      "bytes": 231,
+      "score": 2269.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 122,
+      "file": "submission_better/task122.py",
+      "exists": true,
+      "bytes": 214,
+      "score": 2286.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 123,
+      "file": "submission_better/task123.py",
+      "exists": true,
+      "bytes": 163,
+      "score": 2337.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 124,
+      "file": "submission_better/task124.py",
+      "exists": true,
+      "bytes": 270,
+      "score": 2230.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 125,
+      "file": "submission_better/task125.py",
+      "exists": true,
+      "bytes": 264,
+      "score": 2236.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 126,
+      "file": "submission_better/task126.py",
+      "exists": true,
+      "bytes": 185,
+      "score": 2315.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 127,
+      "file": "submission_better/task127.py",
+      "exists": true,
+      "bytes": 178,
+      "score": 2322.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 128,
+      "file": "submission_better/task128.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 129,
+      "file": "submission_better/task129.py",
+      "exists": true,
+      "bytes": 50,
+      "score": 2450.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 130,
+      "file": "submission_better/task130.py",
+      "exists": true,
+      "bytes": 123,
+      "score": 2377.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 131,
+      "file": "submission_better/task131.py",
+      "exists": true,
+      "bytes": 258,
+      "score": 2242.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 132,
+      "file": "submission_better/task132.py",
+      "exists": true,
+      "bytes": 239,
+      "score": 2261.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 133,
+      "file": "submission_better/task133.py",
+      "exists": true,
+      "bytes": 321,
+      "score": 2179.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 134,
+      "file": "submission_better/task134.py",
+      "exists": true,
+      "bytes": 235,
+      "score": 2265.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 135,
+      "file": "submission_better/task135.py",
+      "exists": true,
+      "bytes": 33,
+      "score": 2467.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 136,
+      "file": "submission_better/task136.py",
+      "exists": true,
+      "bytes": 215,
+      "score": 2285.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 137,
+      "file": "submission_better/task137.py",
+      "exists": true,
+      "bytes": 383,
+      "score": 2117.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 138,
+      "file": "submission_better/task138.py",
+      "exists": true,
+      "bytes": 285,
+      "score": 2215.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 139,
+      "file": "submission_better/task139.py",
+      "exists": true,
+      "bytes": 240,
+      "score": 2260.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 140,
+      "file": "submission_better/task140.py",
+      "exists": true,
+      "bytes": 36,
+      "score": 2464.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 141,
+      "file": "submission_better/task141.py",
+      "exists": true,
+      "bytes": 132,
+      "score": 2368.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 142,
+      "file": "submission_better/task142.py",
+      "exists": true,
+      "bytes": 45,
+      "score": 2455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 143,
+      "file": "submission_better/task143.py",
+      "exists": true,
+      "bytes": 369,
+      "score": 2131.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 144,
+      "file": "submission_better/task144.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 145,
+      "file": "submission_better/task145.py",
+      "exists": true,
+      "bytes": 371,
+      "score": 2129.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 146,
+      "file": "submission_better/task146.py",
+      "exists": true,
+      "bytes": 138,
+      "score": 2362.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 147,
+      "file": "submission_better/task147.py",
+      "exists": true,
+      "bytes": 213,
+      "score": 2287.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 148,
+      "file": "submission_better/task148.py",
+      "exists": true,
+      "bytes": 276,
+      "score": 2224.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 149,
+      "file": "submission_better/task149.py",
+      "exists": true,
+      "bytes": 182,
+      "score": 2318.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 150,
+      "file": "submission_better/task150.py",
+      "exists": true,
+      "bytes": 30,
+      "score": 2470.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 151,
+      "file": "submission_better/task151.py",
+      "exists": true,
+      "bytes": 134,
+      "score": 2366.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 152,
+      "file": "submission_better/task152.py",
+      "exists": true,
+      "bytes": 45,
+      "score": 2455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 153,
+      "file": "submission_better/task153.py",
+      "exists": true,
+      "bytes": 304,
+      "score": 2196.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 154,
+      "file": "submission_better/task154.py",
+      "exists": true,
+      "bytes": 193,
+      "score": 2307.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 155,
+      "file": "submission_better/task155.py",
+      "exists": true,
+      "bytes": 18,
+      "score": 2482.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 156,
+      "file": "submission_better/task156.py",
+      "exists": true,
+      "bytes": 252,
+      "score": 2248.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 157,
+      "file": "submission_better/task157.py",
+      "exists": true,
+      "bytes": 247,
+      "score": 2253.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 158,
+      "file": "submission_better/task158.py",
+      "exists": true,
+      "bytes": 325,
+      "score": 2175.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 159,
+      "file": "submission_better/task159.py",
+      "exists": true,
+      "bytes": 328,
+      "score": 2172.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 160,
+      "file": "submission_better/task160.py",
+      "exists": true,
+      "bytes": 208,
+      "score": 2292.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 161,
+      "file": "submission_better/task161.py",
+      "exists": true,
+      "bytes": 299,
+      "score": 2201.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 162,
+      "file": "submission_better/task162.py",
+      "exists": true,
+      "bytes": 146,
+      "score": 2354.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 163,
+      "file": "submission_better/task163.py",
+      "exists": true,
+      "bytes": 219,
+      "score": 2281.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 164,
+      "file": "submission_better/task164.py",
+      "exists": true,
+      "bytes": 32,
+      "score": 2468.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 165,
+      "file": "submission_better/task165.py",
+      "exists": true,
+      "bytes": 197,
+      "score": 2303.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 166,
+      "file": "submission_better/task166.py",
+      "exists": true,
+      "bytes": 192,
+      "score": 2308.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 167,
+      "file": "submission_better/task167.py",
+      "exists": true,
+      "bytes": 127,
+      "score": 2373.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 168,
+      "file": "submission_better/task168.py",
+      "exists": true,
+      "bytes": 267,
+      "score": 2233.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 169,
+      "file": "submission_better/task169.py",
+      "exists": true,
+      "bytes": 0,
+      "score": 0.001,
+      "passed": false,
+      "arc_agi": {
+        "pass": 0,
+        "fail": 4
+      },
+      "arc_gen": {
+        "pass": 0,
+        "fail": 262
+      },
+      "error": "SyntaxError: invalid syntax (<string>, line 3)"
+    },
+    {
+      "task_id": 170,
+      "file": "submission_better/task170.py",
+      "exists": true,
+      "bytes": 251,
+      "score": 2249.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 171,
+      "file": "submission_better/task171.py",
+      "exists": true,
+      "bytes": 90,
+      "score": 2410.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 49,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 172,
+      "file": "submission_better/task172.py",
+      "exists": true,
+      "bytes": 20,
+      "score": 2480.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 173,
+      "file": "submission_better/task173.py",
+      "exists": true,
+      "bytes": 222,
+      "score": 2278.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 174,
+      "file": "submission_better/task174.py",
+      "exists": true,
+      "bytes": 269,
+      "score": 2231.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 175,
+      "file": "submission_better/task175.py",
+      "exists": true,
+      "bytes": 174,
+      "score": 2326.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 176,
+      "file": "submission_better/task176.py",
+      "exists": true,
+      "bytes": 139,
+      "score": 2361.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 21,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 177,
+      "file": "submission_better/task177.py",
+      "exists": true,
+      "bytes": 155,
+      "score": 2345.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 178,
+      "file": "submission_better/task178.py",
+      "exists": true,
+      "bytes": 68,
+      "score": 2432.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 179,
+      "file": "submission_better/task179.py",
+      "exists": true,
+      "bytes": 21,
+      "score": 2479.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 180,
+      "file": "submission_better/task180.py",
+      "exists": true,
+      "bytes": 91,
+      "score": 2409.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 181,
+      "file": "submission_better/task181.py",
+      "exists": true,
+      "bytes": 99,
+      "score": 2401.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 182,
+      "file": "submission_better/task182.py",
+      "exists": true,
+      "bytes": 564,
+      "score": 1936.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 183,
+      "file": "submission_better/task183.py",
+      "exists": true,
+      "bytes": 211,
+      "score": 2289.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 184,
+      "file": "submission_better/task184.py",
+      "exists": true,
+      "bytes": 277,
+      "score": 2223.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 185,
+      "file": "submission_better/task185.py",
+      "exists": true,
+      "bytes": 354,
+      "score": 2146.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 186,
+      "file": "submission_better/task186.py",
+      "exists": true,
+      "bytes": 107,
+      "score": 2393.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 12,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 255,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 187,
+      "file": "submission_better/task187.py",
+      "exists": true,
+      "bytes": 157,
+      "score": 2343.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 188,
+      "file": "submission_better/task188.py",
+      "exists": true,
+      "bytes": 113,
+      "score": 2387.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 189,
+      "file": "submission_better/task189.py",
+      "exists": true,
+      "bytes": 214,
+      "score": 2286.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 190,
+      "file": "submission_better/task190.py",
+      "exists": true,
+      "bytes": 273,
+      "score": 2227.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 191,
+      "file": "submission_better/task191.py",
+      "exists": true,
+      "bytes": 690,
+      "score": 1810.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 192,
+      "file": "submission_better/task192.py",
+      "exists": true,
+      "bytes": 348,
+      "score": 2152.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 193,
+      "file": "submission_better/task193.py",
+      "exists": true,
+      "bytes": 162,
+      "score": 2338.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 194,
+      "file": "submission_better/task194.py",
+      "exists": true,
+      "bytes": 117,
+      "score": 2383.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 195,
+      "file": "submission_better/task195.py",
+      "exists": true,
+      "bytes": 250,
+      "score": 2250.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 196,
+      "file": "submission_better/task196.py",
+      "exists": true,
+      "bytes": 153,
+      "score": 2347.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 197,
+      "file": "submission_better/task197.py",
+      "exists": true,
+      "bytes": 235,
+      "score": 2265.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 198,
+      "file": "submission_better/task198.py",
+      "exists": true,
+      "bytes": 291,
+      "score": 2209.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 199,
+      "file": "submission_better/task199.py",
+      "exists": true,
+      "bytes": 163,
+      "score": 2337.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 200,
+      "file": "submission_better/task200.py",
+      "exists": true,
+      "bytes": 188,
+      "score": 2312.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 80,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 201,
+      "file": "submission_better/task201.py",
+      "exists": true,
+      "bytes": 332,
+      "score": 2168.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 202,
+      "file": "submission_better/task202.py",
+      "exists": true,
+      "bytes": 370,
+      "score": 2130.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 203,
+      "file": "submission_better/task203.py",
+      "exists": true,
+      "bytes": 154,
+      "score": 2346.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 204,
+      "file": "submission_better/task204.py",
+      "exists": true,
+      "bytes": 395,
+      "score": 2105.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 205,
+      "file": "submission_better/task205.py",
+      "exists": true,
+      "bytes": 598,
+      "score": 1902.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 206,
+      "file": "submission_better/task206.py",
+      "exists": true,
+      "bytes": 525,
+      "score": 1975.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 207,
+      "file": "submission_better/task207.py",
+      "exists": true,
+      "bytes": 205,
+      "score": 2295.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 208,
+      "file": "submission_better/task208.py",
+      "exists": true,
+      "bytes": 499,
+      "score": 2001.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 209,
+      "file": "submission_better/task209.py",
+      "exists": true,
+      "bytes": 825,
+      "score": 1675.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 210,
+      "file": "submission_better/task210.py",
+      "exists": true,
+      "bytes": 20,
+      "score": 2480.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 211,
+      "file": "submission_better/task211.py",
+      "exists": true,
+      "bytes": 63,
+      "score": 2437.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 212,
+      "file": "submission_better/task212.py",
+      "exists": true,
+      "bytes": 215,
+      "score": 2285.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 213,
+      "file": "submission_better/task213.py",
+      "exists": true,
+      "bytes": 270,
+      "score": 2230.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 214,
+      "file": "submission_better/task214.py",
+      "exists": true,
+      "bytes": 162,
+      "score": 2338.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 215,
+      "file": "submission_better/task215.py",
+      "exists": true,
+      "bytes": 86,
+      "score": 2414.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 216,
+      "file": "submission_better/task216.py",
+      "exists": true,
+      "bytes": 305,
+      "score": 2195.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 217,
+      "file": "submission_better/task217.py",
+      "exists": true,
+      "bytes": 189,
+      "score": 2311.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 218,
+      "file": "submission_better/task218.py",
+      "exists": true,
+      "bytes": 277,
+      "score": 2223.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 219,
+      "file": "submission_better/task219.py",
+      "exists": true,
+      "bytes": 975,
+      "score": 1525.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 220,
+      "file": "submission_better/task220.py",
+      "exists": true,
+      "bytes": 198,
+      "score": 2302.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 221,
+      "file": "submission_better/task221.py",
+      "exists": true,
+      "bytes": 182,
+      "score": 2318.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 222,
+      "file": "submission_better/task222.py",
+      "exists": true,
+      "bytes": 232,
+      "score": 2268.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 223,
+      "file": "submission_better/task223.py",
+      "exists": true,
+      "bytes": 79,
+      "score": 2421.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 224,
+      "file": "submission_better/task224.py",
+      "exists": true,
+      "bytes": 248,
+      "score": 2252.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 225,
+      "file": "submission_better/task225.py",
+      "exists": true,
+      "bytes": 244,
+      "score": 2256.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 226,
+      "file": "submission_better/task226.py",
+      "exists": true,
+      "bytes": 231,
+      "score": 2269.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 129,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 227,
+      "file": "submission_better/task227.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 228,
+      "file": "submission_better/task228.py",
+      "exists": true,
+      "bytes": 244,
+      "score": 2256.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 229,
+      "file": "submission_better/task229.py",
+      "exists": true,
+      "bytes": 96,
+      "score": 2404.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 230,
+      "file": "submission_better/task230.py",
+      "exists": true,
+      "bytes": 186,
+      "score": 2314.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 231,
+      "file": "submission_better/task231.py",
+      "exists": true,
+      "bytes": 75,
+      "score": 2425.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 232,
+      "file": "submission_better/task232.py",
+      "exists": true,
+      "bytes": 109,
+      "score": 2391.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 233,
+      "file": "submission_better/task233.py",
+      "exists": true,
+      "bytes": 370,
+      "score": 2130.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 234,
+      "file": "submission_better/task234.py",
+      "exists": true,
+      "bytes": 119,
+      "score": 2381.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 235,
+      "file": "submission_better/task235.py",
+      "exists": true,
+      "bytes": 78,
+      "score": 2422.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 64,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 236,
+      "file": "submission_better/task236.py",
+      "exists": true,
+      "bytes": 138,
+      "score": 2362.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 237,
+      "file": "submission_better/task237.py",
+      "exists": true,
+      "bytes": 184,
+      "score": 2316.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 238,
+      "file": "submission_better/task238.py",
+      "exists": true,
+      "bytes": 991,
+      "score": 1509.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 239,
+      "file": "submission_better/task239.py",
+      "exists": true,
+      "bytes": 207,
+      "score": 2293.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 240,
+      "file": "submission_better/task240.py",
+      "exists": true,
+      "bytes": 225,
+      "score": 2275.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 241,
+      "file": "submission_better/task241.py",
+      "exists": true,
+      "bytes": 21,
+      "score": 2479.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 242,
+      "file": "submission_better/task242.py",
+      "exists": true,
+      "bytes": 233,
+      "score": 2267.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 243,
+      "file": "submission_better/task243.py",
+      "exists": true,
+      "bytes": 169,
+      "score": 2331.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 244,
+      "file": "submission_better/task244.py",
+      "exists": true,
+      "bytes": 199,
+      "score": 2301.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 245,
+      "file": "submission_better/task245.py",
+      "exists": true,
+      "bytes": 297,
+      "score": 2203.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 246,
+      "file": "submission_better/task246.py",
+      "exists": true,
+      "bytes": 203,
+      "score": 2297.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 247,
+      "file": "submission_better/task247.py",
+      "exists": true,
+      "bytes": 188,
+      "score": 2312.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 248,
+      "file": "submission_better/task248.py",
+      "exists": true,
+      "bytes": 145,
+      "score": 2355.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 9,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 249,
+      "file": "submission_better/task249.py",
+      "exists": true,
+      "bytes": 26,
+      "score": 2474.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 250,
+      "file": "submission_better/task250.py",
+      "exists": true,
+      "bytes": 259,
+      "score": 2241.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 251,
+      "file": "submission_better/task251.py",
+      "exists": true,
+      "bytes": 295,
+      "score": 2205.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 252,
+      "file": "submission_better/task252.py",
+      "exists": true,
+      "bytes": 140,
+      "score": 2360.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 253,
+      "file": "submission_better/task253.py",
+      "exists": true,
+      "bytes": 233,
+      "score": 2267.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 254,
+      "file": "submission_better/task254.py",
+      "exists": true,
+      "bytes": 217,
+      "score": 2283.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 255,
+      "file": "submission_better/task255.py",
+      "exists": true,
+      "bytes": 668,
+      "score": 1832.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 256,
+      "file": "submission_better/task256.py",
+      "exists": true,
+      "bytes": 177,
+      "score": 2323.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 257,
+      "file": "submission_better/task257.py",
+      "exists": true,
+      "bytes": 165,
+      "score": 2335.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 258,
+      "file": "submission_better/task258.py",
+      "exists": true,
+      "bytes": 87,
+      "score": 2413.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 259,
+      "file": "submission_better/task259.py",
+      "exists": true,
+      "bytes": 204,
+      "score": 2296.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 260,
+      "file": "submission_better/task260.py",
+      "exists": true,
+      "bytes": 209,
+      "score": 2291.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 261,
+      "file": "submission_better/task261.py",
+      "exists": true,
+      "bytes": 82,
+      "score": 2418.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 262,
+      "file": "submission_better/task262.py",
+      "exists": true,
+      "bytes": 46,
+      "score": 2454.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 6,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 263,
+      "file": "submission_better/task263.py",
+      "exists": true,
+      "bytes": 199,
+      "score": 2301.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 264,
+      "file": "submission_better/task264.py",
+      "exists": true,
+      "bytes": 280,
+      "score": 2220.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 265,
+      "file": "submission_better/task265.py",
+      "exists": true,
+      "bytes": 238,
+      "score": 2262.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 266,
+      "file": "submission_better/task266.py",
+      "exists": true,
+      "bytes": 172,
+      "score": 2328.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 15,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 267,
+      "file": "submission_better/task267.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 268,
+      "file": "submission_better/task268.py",
+      "exists": true,
+      "bytes": 322,
+      "score": 2178.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 269,
+      "file": "submission_better/task269.py",
+      "exists": true,
+      "bytes": 105,
+      "score": 2395.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 270,
+      "file": "submission_better/task270.py",
+      "exists": true,
+      "bytes": 223,
+      "score": 2277.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 271,
+      "file": "submission_better/task271.py",
+      "exists": true,
+      "bytes": 208,
+      "score": 2292.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 272,
+      "file": "submission_better/task272.py",
+      "exists": true,
+      "bytes": 168,
+      "score": 2332.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 273,
+      "file": "submission_better/task273.py",
+      "exists": true,
+      "bytes": 158,
+      "score": 2342.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 274,
+      "file": "submission_better/task274.py",
+      "exists": true,
+      "bytes": 165,
+      "score": 2335.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 275,
+      "file": "submission_better/task275.py",
+      "exists": true,
+      "bytes": 197,
+      "score": 2303.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 276,
+      "file": "submission_better/task276.py",
+      "exists": true,
+      "bytes": 48,
+      "score": 2452.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 277,
+      "file": "submission_better/task277.py",
+      "exists": true,
+      "bytes": 453,
+      "score": 2047.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 278,
+      "file": "submission_better/task278.py",
+      "exists": true,
+      "bytes": 236,
+      "score": 2264.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 279,
+      "file": "submission_better/task279.py",
+      "exists": true,
+      "bytes": 470,
+      "score": 2030.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 280,
+      "file": "submission_better/task280.py",
+      "exists": true,
+      "bytes": 899,
+      "score": 1601.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 281,
+      "file": "submission_better/task281.py",
+      "exists": true,
+      "bytes": 253,
+      "score": 2247.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 282,
+      "file": "submission_better/task282.py",
+      "exists": true,
+      "bytes": 156,
+      "score": 2344.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 283,
+      "file": "submission_better/task283.py",
+      "exists": true,
+      "bytes": 266,
+      "score": 2234.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 284,
+      "file": "submission_better/task284.py",
+      "exists": true,
+      "bytes": 921,
+      "score": 1579.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 285,
+      "file": "submission_better/task285.py",
+      "exists": true,
+      "bytes": 407,
+      "score": 2093.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 286,
+      "file": "submission_better/task286.py",
+      "exists": true,
+      "bytes": 267,
+      "score": 2233.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 287,
+      "file": "submission_better/task287.py",
+      "exists": true,
+      "bytes": 149,
+      "score": 2351.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 288,
+      "file": "submission_better/task288.py",
+      "exists": true,
+      "bytes": 119,
+      "score": 2381.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 289,
+      "file": "submission_better/task289.py",
+      "exists": true,
+      "bytes": 92,
+      "score": 2408.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 290,
+      "file": "submission_better/task290.py",
+      "exists": true,
+      "bytes": 111,
+      "score": 2389.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 291,
+      "file": "submission_better/task291.py",
+      "exists": true,
+      "bytes": 110,
+      "score": 2390.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 292,
+      "file": "submission_better/task292.py",
+      "exists": true,
+      "bytes": 69,
+      "score": 2431.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 22,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 293,
+      "file": "submission_better/task293.py",
+      "exists": true,
+      "bytes": 108,
+      "score": 2392.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 294,
+      "file": "submission_better/task294.py",
+      "exists": true,
+      "bytes": 120,
+      "score": 2380.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 295,
+      "file": "submission_better/task295.py",
+      "exists": true,
+      "bytes": 106,
+      "score": 2394.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 296,
+      "file": "submission_better/task296.py",
+      "exists": true,
+      "bytes": 92,
+      "score": 2408.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 297,
+      "file": "submission_better/task297.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 298,
+      "file": "submission_better/task298.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 299,
+      "file": "submission_better/task299.py",
+      "exists": true,
+      "bytes": 138,
+      "score": 2362.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 18,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 300,
+      "file": "submission_better/task300.py",
+      "exists": true,
+      "bytes": 168,
+      "score": 2332.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 301,
+      "file": "submission_better/task301.py",
+      "exists": true,
+      "bytes": 38,
+      "score": 2462.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 302,
+      "file": "submission_better/task302.py",
+      "exists": true,
+      "bytes": 383,
+      "score": 2117.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 303,
+      "file": "submission_better/task303.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 304,
+      "file": "submission_better/task304.py",
+      "exists": true,
+      "bytes": 237,
+      "score": 2263.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 305,
+      "file": "submission_better/task305.py",
+      "exists": true,
+      "bytes": 187,
+      "score": 2313.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 306,
+      "file": "submission_better/task306.py",
+      "exists": true,
+      "bytes": 263,
+      "score": 2237.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 307,
+      "file": "submission_better/task307.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 308,
+      "file": "submission_better/task308.py",
+      "exists": true,
+      "bytes": 404,
+      "score": 2096.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 309,
+      "file": "submission_better/task309.py",
+      "exists": true,
+      "bytes": 45,
+      "score": 2455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 310,
+      "file": "submission_better/task310.py",
+      "exists": true,
+      "bytes": 264,
+      "score": 2236.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 311,
+      "file": "submission_better/task311.py",
+      "exists": true,
+      "bytes": 32,
+      "score": 2468.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 312,
+      "file": "submission_better/task312.py",
+      "exists": true,
+      "bytes": 80,
+      "score": 2420.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 313,
+      "file": "submission_better/task313.py",
+      "exists": true,
+      "bytes": 215,
+      "score": 2285.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 314,
+      "file": "submission_better/task314.py",
+      "exists": true,
+      "bytes": 376,
+      "score": 2124.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 315,
+      "file": "submission_better/task315.py",
+      "exists": true,
+      "bytes": 76,
+      "score": 2424.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 316,
+      "file": "submission_better/task316.py",
+      "exists": true,
+      "bytes": 139,
+      "score": 2361.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 317,
+      "file": "submission_better/task317.py",
+      "exists": true,
+      "bytes": 193,
+      "score": 2307.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 318,
+      "file": "submission_better/task318.py",
+      "exists": true,
+      "bytes": 80,
+      "score": 2420.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 319,
+      "file": "submission_better/task319.py",
+      "exists": true,
+      "bytes": 480,
+      "score": 2020.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 320,
+      "file": "submission_better/task320.py",
+      "exists": true,
+      "bytes": 160,
+      "score": 2340.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 321,
+      "file": "submission_better/task321.py",
+      "exists": true,
+      "bytes": 150,
+      "score": 2350.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 322,
+      "file": "submission_better/task322.py",
+      "exists": true,
+      "bytes": 132,
+      "score": 2368.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 323,
+      "file": "submission_better/task323.py",
+      "exists": true,
+      "bytes": 245,
+      "score": 2255.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 169,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 324,
+      "file": "submission_better/task324.py",
+      "exists": true,
+      "bytes": 897,
+      "score": 1603.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 325,
+      "file": "submission_better/task325.py",
+      "exists": true,
+      "bytes": 236,
+      "score": 2264.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 326,
+      "file": "submission_better/task326.py",
+      "exists": true,
+      "bytes": 32,
+      "score": 2468.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 327,
+      "file": "submission_better/task327.py",
+      "exists": true,
+      "bytes": 67,
+      "score": 2433.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 328,
+      "file": "submission_better/task328.py",
+      "exists": true,
+      "bytes": 175,
+      "score": 2325.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 329,
+      "file": "submission_better/task329.py",
+      "exists": true,
+      "bytes": 103,
+      "score": 2397.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 330,
+      "file": "submission_better/task330.py",
+      "exists": true,
+      "bytes": 172,
+      "score": 0.001,
+      "passed": false,
+      "arc_agi": {
+        "pass": 0,
+        "fail": 4
+      },
+      "arc_gen": {
+        "pass": 0,
+        "fail": 262
+      },
+      "error": "Traceback (most recent call last):\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/arc_utils/eval_decompressed.py\", line 61, in _verify_split\n    user_arr = _run_and_sanitize(program, ex[\"input\"])\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/arc_utils/eval_decompressed.py\", line 48, in _run_and_sanitize\n    result = program(copy.deepcopy(grid_in))\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/submission_better/task330.py\", line 3, in p\n    return[[(s>0)+(s.bit_count()==6)for s in r]for r in g]\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/submission_better/task330.py\", line 3, in <listcomp>\n    return[[(s>0)+(s.bit_count()==6)for s in r]for r in g]\n  File \"/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/submission_better/task330.py\", line 3, in <listcomp>\n    return[[(s>0)+(s.bit_count()==6)for s in r]for r in g]\nAttributeError: 'int' object has no attribute 'bit_count'\n"
+    },
+    {
+      "task_id": 331,
+      "file": "submission_better/task331.py",
+      "exists": true,
+      "bytes": 198,
+      "score": 2302.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 332,
+      "file": "submission_better/task332.py",
+      "exists": true,
+      "bytes": 106,
+      "score": 2394.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 333,
+      "file": "submission_better/task333.py",
+      "exists": true,
+      "bytes": 217,
+      "score": 2283.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 334,
+      "file": "submission_better/task334.py",
+      "exists": true,
+      "bytes": 141,
+      "score": 2359.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 9,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 335,
+      "file": "submission_better/task335.py",
+      "exists": true,
+      "bytes": 206,
+      "score": 2294.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 336,
+      "file": "submission_better/task336.py",
+      "exists": true,
+      "bytes": 243,
+      "score": 2257.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 28,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 337,
+      "file": "submission_better/task337.py",
+      "exists": true,
+      "bytes": 51,
+      "score": 2449.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 338,
+      "file": "submission_better/task338.py",
+      "exists": true,
+      "bytes": 157,
+      "score": 2343.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 339,
+      "file": "submission_better/task339.py",
+      "exists": true,
+      "bytes": 39,
+      "score": 2461.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 340,
+      "file": "submission_better/task340.py",
+      "exists": true,
+      "bytes": 215,
+      "score": 2285.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 341,
+      "file": "submission_better/task341.py",
+      "exists": true,
+      "bytes": 226,
+      "score": 2274.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 342,
+      "file": "submission_better/task342.py",
+      "exists": true,
+      "bytes": 207,
+      "score": 2293.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 343,
+      "file": "submission_better/task343.py",
+      "exists": true,
+      "bytes": 65,
+      "score": 2435.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 344,
+      "file": "submission_better/task344.py",
+      "exists": true,
+      "bytes": 190,
+      "score": 2310.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 345,
+      "file": "submission_better/task345.py",
+      "exists": true,
+      "bytes": 155,
+      "score": 2345.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 346,
+      "file": "submission_better/task346.py",
+      "exists": true,
+      "bytes": 133,
+      "score": 2367.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 347,
+      "file": "submission_better/task347.py",
+      "exists": true,
+      "bytes": 120,
+      "score": 2380.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 348,
+      "file": "submission_better/task348.py",
+      "exists": true,
+      "bytes": 206,
+      "score": 2294.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 349,
+      "file": "submission_better/task349.py",
+      "exists": true,
+      "bytes": 529,
+      "score": 1971.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 350,
+      "file": "submission_better/task350.py",
+      "exists": true,
+      "bytes": 244,
+      "score": 2256.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 351,
+      "file": "submission_better/task351.py",
+      "exists": true,
+      "bytes": 248,
+      "score": 2252.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 352,
+      "file": "submission_better/task352.py",
+      "exists": true,
+      "bytes": 211,
+      "score": 2289.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 353,
+      "file": "submission_better/task353.py",
+      "exists": true,
+      "bytes": 144,
+      "score": 2356.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 9,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 354,
+      "file": "submission_better/task354.py",
+      "exists": true,
+      "bytes": 217,
+      "score": 2283.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 355,
+      "file": "submission_better/task355.py",
+      "exists": true,
+      "bytes": 166,
+      "score": 2334.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 356,
+      "file": "submission_better/task356.py",
+      "exists": true,
+      "bytes": 238,
+      "score": 2262.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 357,
+      "file": "submission_better/task357.py",
+      "exists": true,
+      "bytes": 175,
+      "score": 2325.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 9,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 358,
+      "file": "submission_better/task358.py",
+      "exists": true,
+      "bytes": 213,
+      "score": 2287.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 359,
+      "file": "submission_better/task359.py",
+      "exists": true,
+      "bytes": 64,
+      "score": 2436.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 360,
+      "file": "submission_better/task360.py",
+      "exists": true,
+      "bytes": 106,
+      "score": 2394.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 361,
+      "file": "submission_better/task361.py",
+      "exists": true,
+      "bytes": 221,
+      "score": 2279.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 362,
+      "file": "submission_better/task362.py",
+      "exists": true,
+      "bytes": 127,
+      "score": 2373.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 363,
+      "file": "submission_better/task363.py",
+      "exists": true,
+      "bytes": 381,
+      "score": 2119.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 364,
+      "file": "submission_better/task364.py",
+      "exists": true,
+      "bytes": 612,
+      "score": 1888.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 365,
+      "file": "submission_better/task365.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 366,
+      "file": "submission_better/task366.py",
+      "exists": true,
+      "bytes": 374,
+      "score": 2126.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 367,
+      "file": "submission_better/task367.py",
+      "exists": true,
+      "bytes": 558,
+      "score": 1942.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 368,
+      "file": "submission_better/task368.py",
+      "exists": true,
+      "bytes": 261,
+      "score": 2239.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 369,
+      "file": "submission_better/task369.py",
+      "exists": true,
+      "bytes": 262,
+      "score": 2238.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 370,
+      "file": "submission_better/task370.py",
+      "exists": true,
+      "bytes": 547,
+      "score": 1953.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 371,
+      "file": "submission_better/task371.py",
+      "exists": true,
+      "bytes": 159,
+      "score": 2341.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 372,
+      "file": "submission_better/task372.py",
+      "exists": true,
+      "bytes": 67,
+      "score": 2433.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 373,
+      "file": "submission_better/task373.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 72,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 374,
+      "file": "submission_better/task374.py",
+      "exists": true,
+      "bytes": 272,
+      "score": 2228.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 375,
+      "file": "submission_better/task375.py",
+      "exists": true,
+      "bytes": 64,
+      "score": 2436.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 54,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 376,
+      "file": "submission_better/task376.py",
+      "exists": true,
+      "bytes": 33,
+      "score": 2467.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 36,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 377,
+      "file": "submission_better/task377.py",
+      "exists": true,
+      "bytes": 68,
+      "score": 2432.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 378,
+      "file": "submission_better/task378.py",
+      "exists": true,
+      "bytes": 207,
+      "score": 2293.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 379,
+      "file": "submission_better/task379.py",
+      "exists": true,
+      "bytes": 369,
+      "score": 2131.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 380,
+      "file": "submission_better/task380.py",
+      "exists": true,
+      "bytes": 27,
+      "score": 2473.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 381,
+      "file": "submission_better/task381.py",
+      "exists": true,
+      "bytes": 201,
+      "score": 2299.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 382,
+      "file": "submission_better/task382.py",
+      "exists": true,
+      "bytes": 243,
+      "score": 2257.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 383,
+      "file": "submission_better/task383.py",
+      "exists": true,
+      "bytes": 404,
+      "score": 2096.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 384,
+      "file": "submission_better/task384.py",
+      "exists": true,
+      "bytes": 199,
+      "score": 2301.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 385,
+      "file": "submission_better/task385.py",
+      "exists": true,
+      "bytes": 88,
+      "score": 2412.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 386,
+      "file": "submission_better/task386.py",
+      "exists": true,
+      "bytes": 141,
+      "score": 2359.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 387,
+      "file": "submission_better/task387.py",
+      "exists": true,
+      "bytes": 401,
+      "score": 2099.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 388,
+      "file": "submission_better/task388.py",
+      "exists": true,
+      "bytes": 174,
+      "score": 2326.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 389,
+      "file": "submission_better/task389.py",
+      "exists": true,
+      "bytes": 128,
+      "score": 2372.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 390,
+      "file": "submission_better/task390.py",
+      "exists": true,
+      "bytes": 374,
+      "score": 2126.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 391,
+      "file": "submission_better/task391.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 392,
+      "file": "submission_better/task392.py",
+      "exists": true,
+      "bytes": 161,
+      "score": 2339.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 393,
+      "file": "submission_better/task393.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 394,
+      "file": "submission_better/task394.py",
+      "exists": true,
+      "bytes": 362,
+      "score": 2138.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 395,
+      "file": "submission_better/task395.py",
+      "exists": true,
+      "bytes": 98,
+      "score": 2402.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 396,
+      "file": "submission_better/task396.py",
+      "exists": true,
+      "bytes": 318,
+      "score": 2182.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 397,
+      "file": "submission_better/task397.py",
+      "exists": true,
+      "bytes": 212,
+      "score": 2288.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 398,
+      "file": "submission_better/task398.py",
+      "exists": true,
+      "bytes": 82,
+      "score": 2418.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 399,
+      "file": "submission_better/task399.py",
+      "exists": true,
+      "bytes": 178,
+      "score": 2322.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 11,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 400,
+      "file": "submission_better/task400.py",
+      "exists": true,
+      "bytes": 250,
+      "score": 2250.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    }
+  ]
+}

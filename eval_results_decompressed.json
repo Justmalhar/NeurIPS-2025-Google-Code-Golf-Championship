@@ -1,0 +1,6818 @@
+{
+  "summary": {
+    "src_dir": "decompressed_submission",
+    "total_tasks": 400,
+    "present": 400,
+    "solved": 400,
+    "failed": 0,
+    "missing": 0,
+    "total_score": 878319.0,
+    "avg_score": 2195.7975,
+    "total_bytes_present": 121681,
+    "avg_bytes_present": 304.2025
+  },
+  "failed_tasks": [],
+  "missing_tasks": [],
+  "tasks": [
+    {
+      "task_id": 1,
+      "file": "decompressed_submission/task001.py",
+      "exists": true,
+      "bytes": 61,
+      "score": 2439.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 2,
+      "file": "decompressed_submission/task002.py",
+      "exists": true,
+      "bytes": 200,
+      "score": 2300.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 3,
+      "file": "decompressed_submission/task003.py",
+      "exists": true,
+      "bytes": 65,
+      "score": 2435.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 4,
+      "file": "decompressed_submission/task004.py",
+      "exists": true,
+      "bytes": 194,
+      "score": 2306.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 5,
+      "file": "decompressed_submission/task005.py",
+      "exists": true,
+      "bytes": 448,
+      "score": 2052.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 6,
+      "file": "decompressed_submission/task006.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 7,
+      "file": "decompressed_submission/task007.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 8,
+      "file": "decompressed_submission/task008.py",
+      "exists": true,
+      "bytes": 186,
+      "score": 2314.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 9,
+      "file": "decompressed_submission/task009.py",
+      "exists": true,
+      "bytes": 335,
+      "score": 2165.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 10,
+      "file": "decompressed_submission/task010.py",
+      "exists": true,
+      "bytes": 94,
+      "score": 2406.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 11,
+      "file": "decompressed_submission/task011.py",
+      "exists": true,
+      "bytes": 201,
+      "score": 2299.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 12,
+      "file": "decompressed_submission/task012.py",
+      "exists": true,
+      "bytes": 218,
+      "score": 2282.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 13,
+      "file": "decompressed_submission/task013.py",
+      "exists": true,
+      "bytes": 296,
+      "score": 2204.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 14,
+      "file": "decompressed_submission/task014.py",
+      "exists": true,
+      "bytes": 129,
+      "score": 2371.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 15,
+      "file": "decompressed_submission/task015.py",
+      "exists": true,
+      "bytes": 142,
+      "score": 2358.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 16,
+      "file": "decompressed_submission/task016.py",
+      "exists": true,
+      "bytes": 55,
+      "score": 2445.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 17,
+      "file": "decompressed_submission/task017.py",
+      "exists": true,
+      "bytes": 380,
+      "score": 2120.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 18,
+      "file": "decompressed_submission/task018.py",
+      "exists": true,
+      "bytes": 1086,
+      "score": 1414.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 19,
+      "file": "decompressed_submission/task019.py",
+      "exists": true,
+      "bytes": 290,
+      "score": 2210.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 20,
+      "file": "decompressed_submission/task020.py",
+      "exists": true,
+      "bytes": 357,
+      "score": 2143.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 21,
+      "file": "decompressed_submission/task021.py",
+      "exists": true,
+      "bytes": 79,
+      "score": 2421.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 22,
+      "file": "decompressed_submission/task022.py",
+      "exists": true,
+      "bytes": 240,
+      "score": 2260.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 23,
+      "file": "decompressed_submission/task023.py",
+      "exists": true,
+      "bytes": 362,
+      "score": 2138.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 24,
+      "file": "decompressed_submission/task024.py",
+      "exists": true,
+      "bytes": 144,
+      "score": 2356.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 25,
+      "file": "decompressed_submission/task025.py",
+      "exists": true,
+      "bytes": 246,
+      "score": 2254.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 26,
+      "file": "decompressed_submission/task026.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 27,
+      "file": "decompressed_submission/task027.py",
+      "exists": true,
+      "bytes": 444,
+      "score": 2056.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 28,
+      "file": "decompressed_submission/task028.py",
+      "exists": true,
+      "bytes": 139,
+      "score": 2361.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 29,
+      "file": "decompressed_submission/task029.py",
+      "exists": true,
+      "bytes": 239,
+      "score": 2261.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 30,
+      "file": "decompressed_submission/task030.py",
+      "exists": true,
+      "bytes": 288,
+      "score": 2212.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 31,
+      "file": "decompressed_submission/task031.py",
+      "exists": true,
+      "bytes": 51,
+      "score": 2449.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 32,
+      "file": "decompressed_submission/task032.py",
+      "exists": true,
+      "bytes": 39,
+      "score": 2461.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 33,
+      "file": "decompressed_submission/task033.py",
+      "exists": true,
+      "bytes": 89,
+      "score": 2411.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 34,
+      "file": "decompressed_submission/task034.py",
+      "exists": true,
+      "bytes": 396,
+      "score": 2104.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 35,
+      "file": "decompressed_submission/task035.py",
+      "exists": true,
+      "bytes": 284,
+      "score": 2216.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 36,
+      "file": "decompressed_submission/task036.py",
+      "exists": true,
+      "bytes": 196,
+      "score": 2304.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 37,
+      "file": "decompressed_submission/task037.py",
+      "exists": true,
+      "bytes": 226,
+      "score": 2274.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 38,
+      "file": "decompressed_submission/task038.py",
+      "exists": true,
+      "bytes": 107,
+      "score": 2393.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 39,
+      "file": "decompressed_submission/task039.py",
+      "exists": true,
+      "bytes": 160,
+      "score": 2340.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 40,
+      "file": "decompressed_submission/task040.py",
+      "exists": true,
+      "bytes": 113,
+      "score": 2387.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 41,
+      "file": "decompressed_submission/task041.py",
+      "exists": true,
+      "bytes": 64,
+      "score": 2436.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 42,
+      "file": "decompressed_submission/task042.py",
+      "exists": true,
+      "bytes": 636,
+      "score": 1864.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 43,
+      "file": "decompressed_submission/task043.py",
+      "exists": true,
+      "bytes": 123,
+      "score": 2377.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 44,
+      "file": "decompressed_submission/task044.py",
+      "exists": true,
+      "bytes": 940,
+      "score": 1560.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 45,
+      "file": "decompressed_submission/task045.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 46,
+      "file": "decompressed_submission/task046.py",
+      "exists": true,
+      "bytes": 492,
+      "score": 2008.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 47,
+      "file": "decompressed_submission/task047.py",
+      "exists": true,
+      "bytes": 126,
+      "score": 2374.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 48,
+      "file": "decompressed_submission/task048.py",
+      "exists": true,
+      "bytes": 180,
+      "score": 2320.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 8,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 49,
+      "file": "decompressed_submission/task049.py",
+      "exists": true,
+      "bytes": 187,
+      "score": 2313.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 50,
+      "file": "decompressed_submission/task050.py",
+      "exists": true,
+      "bytes": 192,
+      "score": 2308.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 9,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 51,
+      "file": "decompressed_submission/task051.py",
+      "exists": true,
+      "bytes": 314,
+      "score": 2186.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 52,
+      "file": "decompressed_submission/task052.py",
+      "exists": true,
+      "bytes": 42,
+      "score": 2458.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 53,
+      "file": "decompressed_submission/task053.py",
+      "exists": true,
+      "bytes": 24,
+      "score": 2476.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 54,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 54,
+      "file": "decompressed_submission/task054.py",
+      "exists": true,
+      "bytes": 779,
+      "score": 1721.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 55,
+      "file": "decompressed_submission/task055.py",
+      "exists": true,
+      "bytes": 253,
+      "score": 2247.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 56,
+      "file": "decompressed_submission/task056.py",
+      "exists": true,
+      "bytes": 76,
+      "score": 2424.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 10,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 36,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 57,
+      "file": "decompressed_submission/task057.py",
+      "exists": true,
+      "bytes": 68,
+      "score": 2432.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 58,
+      "file": "decompressed_submission/task058.py",
+      "exists": true,
+      "bytes": 200,
+      "score": 2300.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 16,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 59,
+      "file": "decompressed_submission/task059.py",
+      "exists": true,
+      "bytes": 252,
+      "score": 2248.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 60,
+      "file": "decompressed_submission/task060.py",
+      "exists": true,
+      "bytes": 57,
+      "score": 2443.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 61,
+      "file": "decompressed_submission/task061.py",
+      "exists": true,
+      "bytes": 380,
+      "score": 2120.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 62,
+      "file": "decompressed_submission/task062.py",
+      "exists": true,
+      "bytes": 419,
+      "score": 2081.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 63,
+      "file": "decompressed_submission/task063.py",
+      "exists": true,
+      "bytes": 137,
+      "score": 2363.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 64,
+      "file": "decompressed_submission/task064.py",
+      "exists": true,
+      "bytes": 628,
+      "score": 1872.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 65,
+      "file": "decompressed_submission/task065.py",
+      "exists": true,
+      "bytes": 153,
+      "score": 2347.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 66,
+      "file": "decompressed_submission/task066.py",
+      "exists": true,
+      "bytes": 1098,
+      "score": 1402.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 67,
+      "file": "decompressed_submission/task067.py",
+      "exists": true,
+      "bytes": 33,
+      "score": 2467.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 68,
+      "file": "decompressed_submission/task068.py",
+      "exists": true,
+      "bytes": 348,
+      "score": 2152.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 69,
+      "file": "decompressed_submission/task069.py",
+      "exists": true,
+      "bytes": 273,
+      "score": 2227.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 70,
+      "file": "decompressed_submission/task070.py",
+      "exists": true,
+      "bytes": 164,
+      "score": 2336.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 71,
+      "file": "decompressed_submission/task071.py",
+      "exists": true,
+      "bytes": 795,
+      "score": 1705.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 72,
+      "file": "decompressed_submission/task072.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 73,
+      "file": "decompressed_submission/task073.py",
+      "exists": true,
+      "bytes": 76,
+      "score": 2424.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 11,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 74,
+      "file": "decompressed_submission/task074.py",
+      "exists": true,
+      "bytes": 521,
+      "score": 1979.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 75,
+      "file": "decompressed_submission/task075.py",
+      "exists": true,
+      "bytes": 209,
+      "score": 2291.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 76,
+      "file": "decompressed_submission/task076.py",
+      "exists": true,
+      "bytes": 601,
+      "score": 1899.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 77,
+      "file": "decompressed_submission/task077.py",
+      "exists": true,
+      "bytes": 1045,
+      "score": 1455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 78,
+      "file": "decompressed_submission/task078.py",
+      "exists": true,
+      "bytes": 102,
+      "score": 2398.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 79,
+      "file": "decompressed_submission/task079.py",
+      "exists": true,
+      "bytes": 291,
+      "score": 2209.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 80,
+      "file": "decompressed_submission/task080.py",
+      "exists": true,
+      "bytes": 712,
+      "score": 1788.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 81,
+      "file": "decompressed_submission/task081.py",
+      "exists": true,
+      "bytes": 155,
+      "score": 2345.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 82,
+      "file": "decompressed_submission/task082.py",
+      "exists": true,
+      "bytes": 109,
+      "score": 2391.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 83,
+      "file": "decompressed_submission/task083.py",
+      "exists": true,
+      "bytes": 40,
+      "score": 2460.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 84,
+      "file": "decompressed_submission/task084.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 171,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 85,
+      "file": "decompressed_submission/task085.py",
+      "exists": true,
+      "bytes": 89,
+      "score": 2411.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 86,
+      "file": "decompressed_submission/task086.py",
+      "exists": true,
+      "bytes": 867,
+      "score": 1633.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 87,
+      "file": "decompressed_submission/task087.py",
+      "exists": true,
+      "bytes": 36,
+      "score": 2464.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 88,
+      "file": "decompressed_submission/task088.py",
+      "exists": true,
+      "bytes": 197,
+      "score": 2303.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 89,
+      "file": "decompressed_submission/task089.py",
+      "exists": true,
+      "bytes": 936,
+      "score": 1564.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 90,
+      "file": "decompressed_submission/task090.py",
+      "exists": true,
+      "bytes": 417,
+      "score": 2083.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 91,
+      "file": "decompressed_submission/task091.py",
+      "exists": true,
+      "bytes": 124,
+      "score": 2376.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 92,
+      "file": "decompressed_submission/task092.py",
+      "exists": true,
+      "bytes": 189,
+      "score": 2311.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 93,
+      "file": "decompressed_submission/task093.py",
+      "exists": true,
+      "bytes": 360,
+      "score": 2140.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 94,
+      "file": "decompressed_submission/task094.py",
+      "exists": true,
+      "bytes": 328,
+      "score": 2172.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 95,
+      "file": "decompressed_submission/task095.py",
+      "exists": true,
+      "bytes": 110,
+      "score": 2390.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 96,
+      "file": "decompressed_submission/task096.py",
+      "exists": true,
+      "bytes": 1501,
+      "score": 999.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 97,
+      "file": "decompressed_submission/task097.py",
+      "exists": true,
+      "bytes": 359,
+      "score": 2141.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 98,
+      "file": "decompressed_submission/task098.py",
+      "exists": true,
+      "bytes": 162,
+      "score": 2338.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 99,
+      "file": "decompressed_submission/task099.py",
+      "exists": true,
+      "bytes": 838,
+      "score": 1662.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 100,
+      "file": "decompressed_submission/task100.py",
+      "exists": true,
+      "bytes": 154,
+      "score": 2346.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 101,
+      "file": "decompressed_submission/task101.py",
+      "exists": true,
+      "bytes": 790,
+      "score": 1710.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 102,
+      "file": "decompressed_submission/task102.py",
+      "exists": true,
+      "bytes": 912,
+      "score": 1588.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 103,
+      "file": "decompressed_submission/task103.py",
+      "exists": true,
+      "bytes": 38,
+      "score": 2462.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 8,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 215,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 104,
+      "file": "decompressed_submission/task104.py",
+      "exists": true,
+      "bytes": 153,
+      "score": 2347.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 4,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 105,
+      "file": "decompressed_submission/task105.py",
+      "exists": true,
+      "bytes": 649,
+      "score": 1851.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 106,
+      "file": "decompressed_submission/task106.py",
+      "exists": true,
+      "bytes": 97,
+      "score": 2403.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 107,
+      "file": "decompressed_submission/task107.py",
+      "exists": true,
+      "bytes": 416,
+      "score": 2084.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 108,
+      "file": "decompressed_submission/task108.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 109,
+      "file": "decompressed_submission/task109.py",
+      "exists": true,
+      "bytes": 193,
+      "score": 2307.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 110,
+      "file": "decompressed_submission/task110.py",
+      "exists": true,
+      "bytes": 201,
+      "score": 2299.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 111,
+      "file": "decompressed_submission/task111.py",
+      "exists": true,
+      "bytes": 98,
+      "score": 2402.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 112,
+      "file": "decompressed_submission/task112.py",
+      "exists": true,
+      "bytes": 198,
+      "score": 2302.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 113,
+      "file": "decompressed_submission/task113.py",
+      "exists": true,
+      "bytes": 28,
+      "score": 2472.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 114,
+      "file": "decompressed_submission/task114.py",
+      "exists": true,
+      "bytes": 100,
+      "score": 2400.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 115,
+      "file": "decompressed_submission/task115.py",
+      "exists": true,
+      "bytes": 113,
+      "score": 2387.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 116,
+      "file": "decompressed_submission/task116.py",
+      "exists": true,
+      "bytes": 20,
+      "score": 2480.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 117,
+      "file": "decompressed_submission/task117.py",
+      "exists": true,
+      "bytes": 2190,
+      "score": 310.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 118,
+      "file": "decompressed_submission/task118.py",
+      "exists": true,
+      "bytes": 416,
+      "score": 2084.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 119,
+      "file": "decompressed_submission/task119.py",
+      "exists": true,
+      "bytes": 280,
+      "score": 2220.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 120,
+      "file": "decompressed_submission/task120.py",
+      "exists": true,
+      "bytes": 532,
+      "score": 1968.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 121,
+      "file": "decompressed_submission/task121.py",
+      "exists": true,
+      "bytes": 296,
+      "score": 2204.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 122,
+      "file": "decompressed_submission/task122.py",
+      "exists": true,
+      "bytes": 387,
+      "score": 2113.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 123,
+      "file": "decompressed_submission/task123.py",
+      "exists": true,
+      "bytes": 163,
+      "score": 2337.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 124,
+      "file": "decompressed_submission/task124.py",
+      "exists": true,
+      "bytes": 302,
+      "score": 2198.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 125,
+      "file": "decompressed_submission/task125.py",
+      "exists": true,
+      "bytes": 428,
+      "score": 2072.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 126,
+      "file": "decompressed_submission/task126.py",
+      "exists": true,
+      "bytes": 210,
+      "score": 2290.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 127,
+      "file": "decompressed_submission/task127.py",
+      "exists": true,
+      "bytes": 178,
+      "score": 2322.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 128,
+      "file": "decompressed_submission/task128.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 129,
+      "file": "decompressed_submission/task129.py",
+      "exists": true,
+      "bytes": 50,
+      "score": 2450.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 130,
+      "file": "decompressed_submission/task130.py",
+      "exists": true,
+      "bytes": 123,
+      "score": 2377.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 131,
+      "file": "decompressed_submission/task131.py",
+      "exists": true,
+      "bytes": 308,
+      "score": 2192.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 132,
+      "file": "decompressed_submission/task132.py",
+      "exists": true,
+      "bytes": 305,
+      "score": 2195.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 133,
+      "file": "decompressed_submission/task133.py",
+      "exists": true,
+      "bytes": 467,
+      "score": 2033.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 134,
+      "file": "decompressed_submission/task134.py",
+      "exists": true,
+      "bytes": 560,
+      "score": 1940.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 135,
+      "file": "decompressed_submission/task135.py",
+      "exists": true,
+      "bytes": 33,
+      "score": 2467.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 136,
+      "file": "decompressed_submission/task136.py",
+      "exists": true,
+      "bytes": 233,
+      "score": 2267.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 137,
+      "file": "decompressed_submission/task137.py",
+      "exists": true,
+      "bytes": 649,
+      "score": 1851.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 138,
+      "file": "decompressed_submission/task138.py",
+      "exists": true,
+      "bytes": 362,
+      "score": 2138.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 139,
+      "file": "decompressed_submission/task139.py",
+      "exists": true,
+      "bytes": 283,
+      "score": 2217.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 140,
+      "file": "decompressed_submission/task140.py",
+      "exists": true,
+      "bytes": 36,
+      "score": 2464.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 141,
+      "file": "decompressed_submission/task141.py",
+      "exists": true,
+      "bytes": 251,
+      "score": 2249.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 142,
+      "file": "decompressed_submission/task142.py",
+      "exists": true,
+      "bytes": 45,
+      "score": 2455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 143,
+      "file": "decompressed_submission/task143.py",
+      "exists": true,
+      "bytes": 655,
+      "score": 1845.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 144,
+      "file": "decompressed_submission/task144.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 145,
+      "file": "decompressed_submission/task145.py",
+      "exists": true,
+      "bytes": 572,
+      "score": 1928.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 146,
+      "file": "decompressed_submission/task146.py",
+      "exists": true,
+      "bytes": 138,
+      "score": 2362.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 147,
+      "file": "decompressed_submission/task147.py",
+      "exists": true,
+      "bytes": 227,
+      "score": 2273.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 148,
+      "file": "decompressed_submission/task148.py",
+      "exists": true,
+      "bytes": 426,
+      "score": 2074.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 149,
+      "file": "decompressed_submission/task149.py",
+      "exists": true,
+      "bytes": 188,
+      "score": 2312.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 150,
+      "file": "decompressed_submission/task150.py",
+      "exists": true,
+      "bytes": 30,
+      "score": 2470.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 151,
+      "file": "decompressed_submission/task151.py",
+      "exists": true,
+      "bytes": 134,
+      "score": 2366.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 152,
+      "file": "decompressed_submission/task152.py",
+      "exists": true,
+      "bytes": 45,
+      "score": 2455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 153,
+      "file": "decompressed_submission/task153.py",
+      "exists": true,
+      "bytes": 460,
+      "score": 2040.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 154,
+      "file": "decompressed_submission/task154.py",
+      "exists": true,
+      "bytes": 193,
+      "score": 2307.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 155,
+      "file": "decompressed_submission/task155.py",
+      "exists": true,
+      "bytes": 18,
+      "score": 2482.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 156,
+      "file": "decompressed_submission/task156.py",
+      "exists": true,
+      "bytes": 357,
+      "score": 2143.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 157,
+      "file": "decompressed_submission/task157.py",
+      "exists": true,
+      "bytes": 274,
+      "score": 2226.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 158,
+      "file": "decompressed_submission/task158.py",
+      "exists": true,
+      "bytes": 510,
+      "score": 1990.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 159,
+      "file": "decompressed_submission/task159.py",
+      "exists": true,
+      "bytes": 476,
+      "score": 2024.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 160,
+      "file": "decompressed_submission/task160.py",
+      "exists": true,
+      "bytes": 262,
+      "score": 2238.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 161,
+      "file": "decompressed_submission/task161.py",
+      "exists": true,
+      "bytes": 431,
+      "score": 2069.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 162,
+      "file": "decompressed_submission/task162.py",
+      "exists": true,
+      "bytes": 146,
+      "score": 2354.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 163,
+      "file": "decompressed_submission/task163.py",
+      "exists": true,
+      "bytes": 326,
+      "score": 2174.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 164,
+      "file": "decompressed_submission/task164.py",
+      "exists": true,
+      "bytes": 32,
+      "score": 2468.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 165,
+      "file": "decompressed_submission/task165.py",
+      "exists": true,
+      "bytes": 215,
+      "score": 2285.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 166,
+      "file": "decompressed_submission/task166.py",
+      "exists": true,
+      "bytes": 250,
+      "score": 2250.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 167,
+      "file": "decompressed_submission/task167.py",
+      "exists": true,
+      "bytes": 127,
+      "score": 2373.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 168,
+      "file": "decompressed_submission/task168.py",
+      "exists": true,
+      "bytes": 340,
+      "score": 2160.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 169,
+      "file": "decompressed_submission/task169.py",
+      "exists": true,
+      "bytes": 354,
+      "score": 2146.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 170,
+      "file": "decompressed_submission/task170.py",
+      "exists": true,
+      "bytes": 256,
+      "score": 2244.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 171,
+      "file": "decompressed_submission/task171.py",
+      "exists": true,
+      "bytes": 90,
+      "score": 2410.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 49,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 172,
+      "file": "decompressed_submission/task172.py",
+      "exists": true,
+      "bytes": 20,
+      "score": 2480.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 173,
+      "file": "decompressed_submission/task173.py",
+      "exists": true,
+      "bytes": 313,
+      "score": 2187.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 174,
+      "file": "decompressed_submission/task174.py",
+      "exists": true,
+      "bytes": 341,
+      "score": 2159.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 175,
+      "file": "decompressed_submission/task175.py",
+      "exists": true,
+      "bytes": 174,
+      "score": 2326.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 176,
+      "file": "decompressed_submission/task176.py",
+      "exists": true,
+      "bytes": 139,
+      "score": 2361.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 21,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 177,
+      "file": "decompressed_submission/task177.py",
+      "exists": true,
+      "bytes": 155,
+      "score": 2345.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 178,
+      "file": "decompressed_submission/task178.py",
+      "exists": true,
+      "bytes": 68,
+      "score": 2432.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 179,
+      "file": "decompressed_submission/task179.py",
+      "exists": true,
+      "bytes": 21,
+      "score": 2479.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 180,
+      "file": "decompressed_submission/task180.py",
+      "exists": true,
+      "bytes": 91,
+      "score": 2409.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 181,
+      "file": "decompressed_submission/task181.py",
+      "exists": true,
+      "bytes": 99,
+      "score": 2401.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 182,
+      "file": "decompressed_submission/task182.py",
+      "exists": true,
+      "bytes": 949,
+      "score": 1551.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 183,
+      "file": "decompressed_submission/task183.py",
+      "exists": true,
+      "bytes": 225,
+      "score": 2275.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 184,
+      "file": "decompressed_submission/task184.py",
+      "exists": true,
+      "bytes": 385,
+      "score": 2115.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 185,
+      "file": "decompressed_submission/task185.py",
+      "exists": true,
+      "bytes": 924,
+      "score": 1576.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 186,
+      "file": "decompressed_submission/task186.py",
+      "exists": true,
+      "bytes": 107,
+      "score": 2393.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 12,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 255,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 187,
+      "file": "decompressed_submission/task187.py",
+      "exists": true,
+      "bytes": 157,
+      "score": 2343.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 188,
+      "file": "decompressed_submission/task188.py",
+      "exists": true,
+      "bytes": 113,
+      "score": 2387.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 189,
+      "file": "decompressed_submission/task189.py",
+      "exists": true,
+      "bytes": 247,
+      "score": 2253.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 190,
+      "file": "decompressed_submission/task190.py",
+      "exists": true,
+      "bytes": 412,
+      "score": 2088.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 191,
+      "file": "decompressed_submission/task191.py",
+      "exists": true,
+      "bytes": 1573,
+      "score": 927.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 192,
+      "file": "decompressed_submission/task192.py",
+      "exists": true,
+      "bytes": 559,
+      "score": 1941.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 193,
+      "file": "decompressed_submission/task193.py",
+      "exists": true,
+      "bytes": 162,
+      "score": 2338.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 194,
+      "file": "decompressed_submission/task194.py",
+      "exists": true,
+      "bytes": 117,
+      "score": 2383.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 195,
+      "file": "decompressed_submission/task195.py",
+      "exists": true,
+      "bytes": 316,
+      "score": 2184.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 196,
+      "file": "decompressed_submission/task196.py",
+      "exists": true,
+      "bytes": 153,
+      "score": 2347.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 197,
+      "file": "decompressed_submission/task197.py",
+      "exists": true,
+      "bytes": 285,
+      "score": 2215.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 198,
+      "file": "decompressed_submission/task198.py",
+      "exists": true,
+      "bytes": 440,
+      "score": 2060.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 199,
+      "file": "decompressed_submission/task199.py",
+      "exists": true,
+      "bytes": 163,
+      "score": 2337.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 200,
+      "file": "decompressed_submission/task200.py",
+      "exists": true,
+      "bytes": 190,
+      "score": 2310.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 80,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 201,
+      "file": "decompressed_submission/task201.py",
+      "exists": true,
+      "bytes": 489,
+      "score": 2011.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 202,
+      "file": "decompressed_submission/task202.py",
+      "exists": true,
+      "bytes": 671,
+      "score": 1829.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 203,
+      "file": "decompressed_submission/task203.py",
+      "exists": true,
+      "bytes": 154,
+      "score": 2346.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 204,
+      "file": "decompressed_submission/task204.py",
+      "exists": true,
+      "bytes": 580,
+      "score": 1920.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 205,
+      "file": "decompressed_submission/task205.py",
+      "exists": true,
+      "bytes": 1294,
+      "score": 1206.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 206,
+      "file": "decompressed_submission/task206.py",
+      "exists": true,
+      "bytes": 866,
+      "score": 1634.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 207,
+      "file": "decompressed_submission/task207.py",
+      "exists": true,
+      "bytes": 270,
+      "score": 2230.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 208,
+      "file": "decompressed_submission/task208.py",
+      "exists": true,
+      "bytes": 902,
+      "score": 1598.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 209,
+      "file": "decompressed_submission/task209.py",
+      "exists": true,
+      "bytes": 1923,
+      "score": 577.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 210,
+      "file": "decompressed_submission/task210.py",
+      "exists": true,
+      "bytes": 20,
+      "score": 2480.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 211,
+      "file": "decompressed_submission/task211.py",
+      "exists": true,
+      "bytes": 63,
+      "score": 2437.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 212,
+      "file": "decompressed_submission/task212.py",
+      "exists": true,
+      "bytes": 351,
+      "score": 2149.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 213,
+      "file": "decompressed_submission/task213.py",
+      "exists": true,
+      "bytes": 360,
+      "score": 2140.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 214,
+      "file": "decompressed_submission/task214.py",
+      "exists": true,
+      "bytes": 162,
+      "score": 2338.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 215,
+      "file": "decompressed_submission/task215.py",
+      "exists": true,
+      "bytes": 86,
+      "score": 2414.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 216,
+      "file": "decompressed_submission/task216.py",
+      "exists": true,
+      "bytes": 393,
+      "score": 2107.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 217,
+      "file": "decompressed_submission/task217.py",
+      "exists": true,
+      "bytes": 189,
+      "score": 2311.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 218,
+      "file": "decompressed_submission/task218.py",
+      "exists": true,
+      "bytes": 396,
+      "score": 2104.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 219,
+      "file": "decompressed_submission/task219.py",
+      "exists": true,
+      "bytes": 2107,
+      "score": 393.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 220,
+      "file": "decompressed_submission/task220.py",
+      "exists": true,
+      "bytes": 198,
+      "score": 2302.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 221,
+      "file": "decompressed_submission/task221.py",
+      "exists": true,
+      "bytes": 182,
+      "score": 2318.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 222,
+      "file": "decompressed_submission/task222.py",
+      "exists": true,
+      "bytes": 280,
+      "score": 2220.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 223,
+      "file": "decompressed_submission/task223.py",
+      "exists": true,
+      "bytes": 79,
+      "score": 2421.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 224,
+      "file": "decompressed_submission/task224.py",
+      "exists": true,
+      "bytes": 333,
+      "score": 2167.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 225,
+      "file": "decompressed_submission/task225.py",
+      "exists": true,
+      "bytes": 301,
+      "score": 2199.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 226,
+      "file": "decompressed_submission/task226.py",
+      "exists": true,
+      "bytes": 262,
+      "score": 2238.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 129,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 227,
+      "file": "decompressed_submission/task227.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 228,
+      "file": "decompressed_submission/task228.py",
+      "exists": true,
+      "bytes": 301,
+      "score": 2199.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 229,
+      "file": "decompressed_submission/task229.py",
+      "exists": true,
+      "bytes": 96,
+      "score": 2404.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 230,
+      "file": "decompressed_submission/task230.py",
+      "exists": true,
+      "bytes": 194,
+      "score": 2306.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 231,
+      "file": "decompressed_submission/task231.py",
+      "exists": true,
+      "bytes": 75,
+      "score": 2425.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 232,
+      "file": "decompressed_submission/task232.py",
+      "exists": true,
+      "bytes": 109,
+      "score": 2391.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 233,
+      "file": "decompressed_submission/task233.py",
+      "exists": true,
+      "bytes": 561,
+      "score": 1939.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 234,
+      "file": "decompressed_submission/task234.py",
+      "exists": true,
+      "bytes": 119,
+      "score": 2381.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 235,
+      "file": "decompressed_submission/task235.py",
+      "exists": true,
+      "bytes": 78,
+      "score": 2422.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 64,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 236,
+      "file": "decompressed_submission/task236.py",
+      "exists": true,
+      "bytes": 138,
+      "score": 2362.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 237,
+      "file": "decompressed_submission/task237.py",
+      "exists": true,
+      "bytes": 213,
+      "score": 2287.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 238,
+      "file": "decompressed_submission/task238.py",
+      "exists": true,
+      "bytes": 2174,
+      "score": 326.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 239,
+      "file": "decompressed_submission/task239.py",
+      "exists": true,
+      "bytes": 212,
+      "score": 2288.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 240,
+      "file": "decompressed_submission/task240.py",
+      "exists": true,
+      "bytes": 270,
+      "score": 2230.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 241,
+      "file": "decompressed_submission/task241.py",
+      "exists": true,
+      "bytes": 21,
+      "score": 2479.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 242,
+      "file": "decompressed_submission/task242.py",
+      "exists": true,
+      "bytes": 311,
+      "score": 2189.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 243,
+      "file": "decompressed_submission/task243.py",
+      "exists": true,
+      "bytes": 169,
+      "score": 2331.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 244,
+      "file": "decompressed_submission/task244.py",
+      "exists": true,
+      "bytes": 199,
+      "score": 2301.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 245,
+      "file": "decompressed_submission/task245.py",
+      "exists": true,
+      "bytes": 479,
+      "score": 2021.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 246,
+      "file": "decompressed_submission/task246.py",
+      "exists": true,
+      "bytes": 243,
+      "score": 2257.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 247,
+      "file": "decompressed_submission/task247.py",
+      "exists": true,
+      "bytes": 188,
+      "score": 2312.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 248,
+      "file": "decompressed_submission/task248.py",
+      "exists": true,
+      "bytes": 145,
+      "score": 2355.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 9,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 249,
+      "file": "decompressed_submission/task249.py",
+      "exists": true,
+      "bytes": 26,
+      "score": 2474.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 250,
+      "file": "decompressed_submission/task250.py",
+      "exists": true,
+      "bytes": 326,
+      "score": 2174.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 251,
+      "file": "decompressed_submission/task251.py",
+      "exists": true,
+      "bytes": 419,
+      "score": 2081.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 252,
+      "file": "decompressed_submission/task252.py",
+      "exists": true,
+      "bytes": 140,
+      "score": 2360.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 253,
+      "file": "decompressed_submission/task253.py",
+      "exists": true,
+      "bytes": 374,
+      "score": 2126.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 254,
+      "file": "decompressed_submission/task254.py",
+      "exists": true,
+      "bytes": 266,
+      "score": 2234.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 255,
+      "file": "decompressed_submission/task255.py",
+      "exists": true,
+      "bytes": 1172,
+      "score": 1328.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 256,
+      "file": "decompressed_submission/task256.py",
+      "exists": true,
+      "bytes": 177,
+      "score": 2323.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 257,
+      "file": "decompressed_submission/task257.py",
+      "exists": true,
+      "bytes": 192,
+      "score": 2308.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 258,
+      "file": "decompressed_submission/task258.py",
+      "exists": true,
+      "bytes": 87,
+      "score": 2413.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 259,
+      "file": "decompressed_submission/task259.py",
+      "exists": true,
+      "bytes": 219,
+      "score": 2281.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 260,
+      "file": "decompressed_submission/task260.py",
+      "exists": true,
+      "bytes": 209,
+      "score": 2291.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 261,
+      "file": "decompressed_submission/task261.py",
+      "exists": true,
+      "bytes": 82,
+      "score": 2418.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 262,
+      "file": "decompressed_submission/task262.py",
+      "exists": true,
+      "bytes": 46,
+      "score": 2454.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 6,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 263,
+      "file": "decompressed_submission/task263.py",
+      "exists": true,
+      "bytes": 263,
+      "score": 2237.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 264,
+      "file": "decompressed_submission/task264.py",
+      "exists": true,
+      "bytes": 286,
+      "score": 2214.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 265,
+      "file": "decompressed_submission/task265.py",
+      "exists": true,
+      "bytes": 311,
+      "score": 2189.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 266,
+      "file": "decompressed_submission/task266.py",
+      "exists": true,
+      "bytes": 172,
+      "score": 2328.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 15,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 267,
+      "file": "decompressed_submission/task267.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 268,
+      "file": "decompressed_submission/task268.py",
+      "exists": true,
+      "bytes": 458,
+      "score": 2042.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 269,
+      "file": "decompressed_submission/task269.py",
+      "exists": true,
+      "bytes": 105,
+      "score": 2395.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 270,
+      "file": "decompressed_submission/task270.py",
+      "exists": true,
+      "bytes": 240,
+      "score": 2260.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 271,
+      "file": "decompressed_submission/task271.py",
+      "exists": true,
+      "bytes": 208,
+      "score": 2292.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 272,
+      "file": "decompressed_submission/task272.py",
+      "exists": true,
+      "bytes": 168,
+      "score": 2332.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 273,
+      "file": "decompressed_submission/task273.py",
+      "exists": true,
+      "bytes": 158,
+      "score": 2342.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 274,
+      "file": "decompressed_submission/task274.py",
+      "exists": true,
+      "bytes": 165,
+      "score": 2335.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 275,
+      "file": "decompressed_submission/task275.py",
+      "exists": true,
+      "bytes": 199,
+      "score": 2301.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 276,
+      "file": "decompressed_submission/task276.py",
+      "exists": true,
+      "bytes": 48,
+      "score": 2452.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 277,
+      "file": "decompressed_submission/task277.py",
+      "exists": true,
+      "bytes": 858,
+      "score": 1642.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 278,
+      "file": "decompressed_submission/task278.py",
+      "exists": true,
+      "bytes": 353,
+      "score": 2147.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 279,
+      "file": "decompressed_submission/task279.py",
+      "exists": true,
+      "bytes": 770,
+      "score": 1730.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 280,
+      "file": "decompressed_submission/task280.py",
+      "exists": true,
+      "bytes": 1822,
+      "score": 678.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 281,
+      "file": "decompressed_submission/task281.py",
+      "exists": true,
+      "bytes": 261,
+      "score": 2239.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 282,
+      "file": "decompressed_submission/task282.py",
+      "exists": true,
+      "bytes": 156,
+      "score": 2344.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 283,
+      "file": "decompressed_submission/task283.py",
+      "exists": true,
+      "bytes": 361,
+      "score": 2139.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 284,
+      "file": "decompressed_submission/task284.py",
+      "exists": true,
+      "bytes": 1805,
+      "score": 695.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 285,
+      "file": "decompressed_submission/task285.py",
+      "exists": true,
+      "bytes": 567,
+      "score": 1933.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 286,
+      "file": "decompressed_submission/task286.py",
+      "exists": true,
+      "bytes": 338,
+      "score": 2162.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 287,
+      "file": "decompressed_submission/task287.py",
+      "exists": true,
+      "bytes": 149,
+      "score": 2351.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 288,
+      "file": "decompressed_submission/task288.py",
+      "exists": true,
+      "bytes": 119,
+      "score": 2381.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 289,
+      "file": "decompressed_submission/task289.py",
+      "exists": true,
+      "bytes": 92,
+      "score": 2408.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 290,
+      "file": "decompressed_submission/task290.py",
+      "exists": true,
+      "bytes": 111,
+      "score": 2389.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 291,
+      "file": "decompressed_submission/task291.py",
+      "exists": true,
+      "bytes": 110,
+      "score": 2390.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 292,
+      "file": "decompressed_submission/task292.py",
+      "exists": true,
+      "bytes": 69,
+      "score": 2431.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 22,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 293,
+      "file": "decompressed_submission/task293.py",
+      "exists": true,
+      "bytes": 108,
+      "score": 2392.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 294,
+      "file": "decompressed_submission/task294.py",
+      "exists": true,
+      "bytes": 120,
+      "score": 2380.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 295,
+      "file": "decompressed_submission/task295.py",
+      "exists": true,
+      "bytes": 106,
+      "score": 2394.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 296,
+      "file": "decompressed_submission/task296.py",
+      "exists": true,
+      "bytes": 92,
+      "score": 2408.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 297,
+      "file": "decompressed_submission/task297.py",
+      "exists": true,
+      "bytes": 72,
+      "score": 2428.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 298,
+      "file": "decompressed_submission/task298.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 299,
+      "file": "decompressed_submission/task299.py",
+      "exists": true,
+      "bytes": 138,
+      "score": 2362.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 18,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 300,
+      "file": "decompressed_submission/task300.py",
+      "exists": true,
+      "bytes": 168,
+      "score": 2332.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 301,
+      "file": "decompressed_submission/task301.py",
+      "exists": true,
+      "bytes": 38,
+      "score": 2462.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 302,
+      "file": "decompressed_submission/task302.py",
+      "exists": true,
+      "bytes": 513,
+      "score": 1987.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 303,
+      "file": "decompressed_submission/task303.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 304,
+      "file": "decompressed_submission/task304.py",
+      "exists": true,
+      "bytes": 245,
+      "score": 2255.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 305,
+      "file": "decompressed_submission/task305.py",
+      "exists": true,
+      "bytes": 191,
+      "score": 2309.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 306,
+      "file": "decompressed_submission/task306.py",
+      "exists": true,
+      "bytes": 623,
+      "score": 1877.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 307,
+      "file": "decompressed_submission/task307.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 308,
+      "file": "decompressed_submission/task308.py",
+      "exists": true,
+      "bytes": 650,
+      "score": 1850.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 309,
+      "file": "decompressed_submission/task309.py",
+      "exists": true,
+      "bytes": 45,
+      "score": 2455.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 310,
+      "file": "decompressed_submission/task310.py",
+      "exists": true,
+      "bytes": 330,
+      "score": 2170.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 311,
+      "file": "decompressed_submission/task311.py",
+      "exists": true,
+      "bytes": 32,
+      "score": 2468.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 312,
+      "file": "decompressed_submission/task312.py",
+      "exists": true,
+      "bytes": 80,
+      "score": 2420.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 313,
+      "file": "decompressed_submission/task313.py",
+      "exists": true,
+      "bytes": 224,
+      "score": 2276.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 314,
+      "file": "decompressed_submission/task314.py",
+      "exists": true,
+      "bytes": 558,
+      "score": 1942.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 315,
+      "file": "decompressed_submission/task315.py",
+      "exists": true,
+      "bytes": 76,
+      "score": 2424.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 316,
+      "file": "decompressed_submission/task316.py",
+      "exists": true,
+      "bytes": 139,
+      "score": 2361.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 317,
+      "file": "decompressed_submission/task317.py",
+      "exists": true,
+      "bytes": 210,
+      "score": 2290.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 318,
+      "file": "decompressed_submission/task318.py",
+      "exists": true,
+      "bytes": 80,
+      "score": 2420.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 319,
+      "file": "decompressed_submission/task319.py",
+      "exists": true,
+      "bytes": 616,
+      "score": 1884.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 320,
+      "file": "decompressed_submission/task320.py",
+      "exists": true,
+      "bytes": 160,
+      "score": 2340.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 321,
+      "file": "decompressed_submission/task321.py",
+      "exists": true,
+      "bytes": 150,
+      "score": 2350.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 322,
+      "file": "decompressed_submission/task322.py",
+      "exists": true,
+      "bytes": 132,
+      "score": 2368.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 323,
+      "file": "decompressed_submission/task323.py",
+      "exists": true,
+      "bytes": 324,
+      "score": 2176.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 169,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 324,
+      "file": "decompressed_submission/task324.py",
+      "exists": true,
+      "bytes": 1737,
+      "score": 763.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 325,
+      "file": "decompressed_submission/task325.py",
+      "exists": true,
+      "bytes": 272,
+      "score": 2228.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 326,
+      "file": "decompressed_submission/task326.py",
+      "exists": true,
+      "bytes": 32,
+      "score": 2468.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 327,
+      "file": "decompressed_submission/task327.py",
+      "exists": true,
+      "bytes": 67,
+      "score": 2433.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 328,
+      "file": "decompressed_submission/task328.py",
+      "exists": true,
+      "bytes": 175,
+      "score": 2325.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 329,
+      "file": "decompressed_submission/task329.py",
+      "exists": true,
+      "bytes": 103,
+      "score": 2397.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 330,
+      "file": "decompressed_submission/task330.py",
+      "exists": true,
+      "bytes": 400,
+      "score": 2100.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 331,
+      "file": "decompressed_submission/task331.py",
+      "exists": true,
+      "bytes": 207,
+      "score": 2293.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 332,
+      "file": "decompressed_submission/task332.py",
+      "exists": true,
+      "bytes": 106,
+      "score": 2394.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 333,
+      "file": "decompressed_submission/task333.py",
+      "exists": true,
+      "bytes": 234,
+      "score": 2266.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 334,
+      "file": "decompressed_submission/task334.py",
+      "exists": true,
+      "bytes": 141,
+      "score": 2359.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 9,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 335,
+      "file": "decompressed_submission/task335.py",
+      "exists": true,
+      "bytes": 206,
+      "score": 2294.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 336,
+      "file": "decompressed_submission/task336.py",
+      "exists": true,
+      "bytes": 243,
+      "score": 2257.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 28,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 337,
+      "file": "decompressed_submission/task337.py",
+      "exists": true,
+      "bytes": 51,
+      "score": 2449.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 338,
+      "file": "decompressed_submission/task338.py",
+      "exists": true,
+      "bytes": 157,
+      "score": 2343.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 339,
+      "file": "decompressed_submission/task339.py",
+      "exists": true,
+      "bytes": 39,
+      "score": 2461.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 340,
+      "file": "decompressed_submission/task340.py",
+      "exists": true,
+      "bytes": 230,
+      "score": 2270.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 341,
+      "file": "decompressed_submission/task341.py",
+      "exists": true,
+      "bytes": 238,
+      "score": 2262.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 342,
+      "file": "decompressed_submission/task342.py",
+      "exists": true,
+      "bytes": 223,
+      "score": 2277.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 343,
+      "file": "decompressed_submission/task343.py",
+      "exists": true,
+      "bytes": 65,
+      "score": 2435.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 344,
+      "file": "decompressed_submission/task344.py",
+      "exists": true,
+      "bytes": 190,
+      "score": 2310.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 345,
+      "file": "decompressed_submission/task345.py",
+      "exists": true,
+      "bytes": 155,
+      "score": 2345.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 346,
+      "file": "decompressed_submission/task346.py",
+      "exists": true,
+      "bytes": 133,
+      "score": 2367.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 347,
+      "file": "decompressed_submission/task347.py",
+      "exists": true,
+      "bytes": 120,
+      "score": 2380.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 7,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 348,
+      "file": "decompressed_submission/task348.py",
+      "exists": true,
+      "bytes": 221,
+      "score": 2279.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 349,
+      "file": "decompressed_submission/task349.py",
+      "exists": true,
+      "bytes": 1082,
+      "score": 1418.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 350,
+      "file": "decompressed_submission/task350.py",
+      "exists": true,
+      "bytes": 348,
+      "score": 2152.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 351,
+      "file": "decompressed_submission/task351.py",
+      "exists": true,
+      "bytes": 421,
+      "score": 2079.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 352,
+      "file": "decompressed_submission/task352.py",
+      "exists": true,
+      "bytes": 250,
+      "score": 2250.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 353,
+      "file": "decompressed_submission/task353.py",
+      "exists": true,
+      "bytes": 144,
+      "score": 2356.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 9,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 354,
+      "file": "decompressed_submission/task354.py",
+      "exists": true,
+      "bytes": 234,
+      "score": 2266.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 355,
+      "file": "decompressed_submission/task355.py",
+      "exists": true,
+      "bytes": 166,
+      "score": 2334.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 356,
+      "file": "decompressed_submission/task356.py",
+      "exists": true,
+      "bytes": 323,
+      "score": 2177.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 357,
+      "file": "decompressed_submission/task357.py",
+      "exists": true,
+      "bytes": 175,
+      "score": 2325.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 9,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 358,
+      "file": "decompressed_submission/task358.py",
+      "exists": true,
+      "bytes": 213,
+      "score": 2287.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 359,
+      "file": "decompressed_submission/task359.py",
+      "exists": true,
+      "bytes": 64,
+      "score": 2436.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 360,
+      "file": "decompressed_submission/task360.py",
+      "exists": true,
+      "bytes": 106,
+      "score": 2394.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 361,
+      "file": "decompressed_submission/task361.py",
+      "exists": true,
+      "bytes": 244,
+      "score": 2256.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 362,
+      "file": "decompressed_submission/task362.py",
+      "exists": true,
+      "bytes": 127,
+      "score": 2373.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 363,
+      "file": "decompressed_submission/task363.py",
+      "exists": true,
+      "bytes": 565,
+      "score": 1935.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 364,
+      "file": "decompressed_submission/task364.py",
+      "exists": true,
+      "bytes": 1082,
+      "score": 1418.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 365,
+      "file": "decompressed_submission/task365.py",
+      "exists": true,
+      "bytes": 176,
+      "score": 2324.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 366,
+      "file": "decompressed_submission/task366.py",
+      "exists": true,
+      "bytes": 651,
+      "score": 1849.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 367,
+      "file": "decompressed_submission/task367.py",
+      "exists": true,
+      "bytes": 1098,
+      "score": 1402.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 368,
+      "file": "decompressed_submission/task368.py",
+      "exists": true,
+      "bytes": 366,
+      "score": 2134.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 369,
+      "file": "decompressed_submission/task369.py",
+      "exists": true,
+      "bytes": 283,
+      "score": 2217.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 370,
+      "file": "decompressed_submission/task370.py",
+      "exists": true,
+      "bytes": 926,
+      "score": 1574.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 371,
+      "file": "decompressed_submission/task371.py",
+      "exists": true,
+      "bytes": 159,
+      "score": 2341.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 372,
+      "file": "decompressed_submission/task372.py",
+      "exists": true,
+      "bytes": 67,
+      "score": 2433.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 373,
+      "file": "decompressed_submission/task373.py",
+      "exists": true,
+      "bytes": 73,
+      "score": 2427.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 72,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 374,
+      "file": "decompressed_submission/task374.py",
+      "exists": true,
+      "bytes": 367,
+      "score": 2133.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 375,
+      "file": "decompressed_submission/task375.py",
+      "exists": true,
+      "bytes": 64,
+      "score": 2436.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 54,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 376,
+      "file": "decompressed_submission/task376.py",
+      "exists": true,
+      "bytes": 33,
+      "score": 2467.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 36,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 377,
+      "file": "decompressed_submission/task377.py",
+      "exists": true,
+      "bytes": 68,
+      "score": 2432.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 378,
+      "file": "decompressed_submission/task378.py",
+      "exists": true,
+      "bytes": 207,
+      "score": 2293.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 379,
+      "file": "decompressed_submission/task379.py",
+      "exists": true,
+      "bytes": 572,
+      "score": 1928.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 380,
+      "file": "decompressed_submission/task380.py",
+      "exists": true,
+      "bytes": 27,
+      "score": 2473.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 381,
+      "file": "decompressed_submission/task381.py",
+      "exists": true,
+      "bytes": 205,
+      "score": 2295.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 382,
+      "file": "decompressed_submission/task382.py",
+      "exists": true,
+      "bytes": 304,
+      "score": 2196.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 383,
+      "file": "decompressed_submission/task383.py",
+      "exists": true,
+      "bytes": 663,
+      "score": 1837.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 384,
+      "file": "decompressed_submission/task384.py",
+      "exists": true,
+      "bytes": 222,
+      "score": 2278.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 385,
+      "file": "decompressed_submission/task385.py",
+      "exists": true,
+      "bytes": 88,
+      "score": 2412.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 3,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 386,
+      "file": "decompressed_submission/task386.py",
+      "exists": true,
+      "bytes": 141,
+      "score": 2359.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 387,
+      "file": "decompressed_submission/task387.py",
+      "exists": true,
+      "bytes": 645,
+      "score": 1855.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 388,
+      "file": "decompressed_submission/task388.py",
+      "exists": true,
+      "bytes": 190,
+      "score": 2310.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 389,
+      "file": "decompressed_submission/task389.py",
+      "exists": true,
+      "bytes": 128,
+      "score": 2372.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 390,
+      "file": "decompressed_submission/task390.py",
+      "exists": true,
+      "bytes": 732,
+      "score": 1768.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 391,
+      "file": "decompressed_submission/task391.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 5,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 392,
+      "file": "decompressed_submission/task392.py",
+      "exists": true,
+      "bytes": 161,
+      "score": 2339.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 393,
+      "file": "decompressed_submission/task393.py",
+      "exists": true,
+      "bytes": 104,
+      "score": 2396.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 261,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 394,
+      "file": "decompressed_submission/task394.py",
+      "exists": true,
+      "bytes": 698,
+      "score": 1802.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 395,
+      "file": "decompressed_submission/task395.py",
+      "exists": true,
+      "bytes": 98,
+      "score": 2402.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 396,
+      "file": "decompressed_submission/task396.py",
+      "exists": true,
+      "bytes": 552,
+      "score": 1948.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 397,
+      "file": "decompressed_submission/task397.py",
+      "exists": true,
+      "bytes": 247,
+      "score": 2253.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 398,
+      "file": "decompressed_submission/task398.py",
+      "exists": true,
+      "bytes": 82,
+      "score": 2418.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 6,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 399,
+      "file": "decompressed_submission/task399.py",
+      "exists": true,
+      "bytes": 178,
+      "score": 2322.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 11,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    },
+    {
+      "task_id": 400,
+      "file": "decompressed_submission/task400.py",
+      "exists": true,
+      "bytes": 425,
+      "score": 2075.0,
+      "passed": true,
+      "arc_agi": {
+        "pass": 4,
+        "fail": 0
+      },
+      "arc_gen": {
+        "pass": 262,
+        "fail": 0
+      },
+      "error": ""
+    }
+  ]
+}

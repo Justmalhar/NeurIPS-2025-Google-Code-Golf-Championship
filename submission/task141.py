@@ -1,0 +1,1 @@
+p=lambda g:(s:=sum(g,[]),n:=len(g),k:=s.index(max(s)),r:=range(n),[[s[k]*((i-j==k//n-k%n)|(i+j==k//n+k%n))for j in r]for i in r])[4]

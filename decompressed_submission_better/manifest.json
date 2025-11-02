@@ -1,0 +1,2812 @@
+{
+  "source": "/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/submission_better",
+  "dest": "/Users/malharujawane/Documents/Development/kaggle/NeurIPS-2025-Google-Code-Golf-Championship/decompressed_submission_better",
+  "files": [
+    {
+      "file": "task001.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 61,
+      "out_bytes": 61
+    },
+    {
+      "file": "task002.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 196,
+      "out_bytes": 200
+    },
+    {
+      "file": "task003.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 65,
+      "out_bytes": 65
+    },
+    {
+      "file": "task004.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 194,
+      "out_bytes": 194
+    },
+    {
+      "file": "task005.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 288,
+      "out_bytes": 448
+    },
+    {
+      "file": "task006.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 57,
+      "out_bytes": 57
+    },
+    {
+      "file": "task007.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 104,
+      "out_bytes": 104
+    },
+    {
+      "file": "task008.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 186,
+      "out_bytes": 186
+    },
+    {
+      "file": "task009.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 263,
+      "out_bytes": 335
+    },
+    {
+      "file": "task010.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 94,
+      "out_bytes": 94
+    },
+    {
+      "file": "task011.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 189,
+      "out_bytes": 201
+    },
+    {
+      "file": "task012.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 217,
+      "out_bytes": 218
+    },
+    {
+      "file": "task013.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 246,
+      "out_bytes": 296
+    },
+    {
+      "file": "task014.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 129,
+      "out_bytes": 129
+    },
+    {
+      "file": "task015.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 142,
+      "out_bytes": 142
+    },
+    {
+      "file": "task016.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 55,
+      "out_bytes": 55
+    },
+    {
+      "file": "task017.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 256,
+      "out_bytes": 380
+    },
+    {
+      "file": "task018.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 429,
+      "out_bytes": 1086
+    },
+    {
+      "file": "task019.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 229,
+      "out_bytes": 290
+    },
+    {
+      "file": "task020.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 265,
+      "out_bytes": 357
+    },
+    {
+      "file": "task021.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 79,
+      "out_bytes": 79
+    },
+    {
+      "file": "task022.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 206,
+      "out_bytes": 240
+    },
+    {
+      "file": "task023.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 295,
+      "out_bytes": 362
+    },
+    {
+      "file": "task024.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 144,
+      "out_bytes": 144
+    },
+    {
+      "file": "task025.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 226,
+      "out_bytes": 246
+    },
+    {
+      "file": "task026.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 57,
+      "out_bytes": 57
+    },
+    {
+      "file": "task027.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 316,
+      "out_bytes": 444
+    },
+    {
+      "file": "task028.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 139,
+      "out_bytes": 139
+    },
+    {
+      "file": "task029.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 223,
+      "out_bytes": 239
+    },
+    {
+      "file": "task030.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 212,
+      "out_bytes": 288
+    },
+    {
+      "file": "task031.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 51,
+      "out_bytes": 51
+    },
+    {
+      "file": "task032.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 39,
+      "out_bytes": 39
+    },
+    {
+      "file": "task033.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 89,
+      "out_bytes": 89
+    },
+    {
+      "file": "task034.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 312,
+      "out_bytes": 396
+    },
+    {
+      "file": "task035.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 231,
+      "out_bytes": 284
+    },
+    {
+      "file": "task036.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 196,
+      "out_bytes": 196
+    },
+    {
+      "file": "task037.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 226,
+      "out_bytes": 226
+    },
+    {
+      "file": "task038.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 107,
+      "out_bytes": 107
+    },
+    {
+      "file": "task039.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 160,
+      "out_bytes": 160
+    },
+    {
+      "file": "task040.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 113,
+      "out_bytes": 113
+    },
+    {
+      "file": "task041.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 64,
+      "out_bytes": 64
+    },
+    {
+      "file": "task042.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 341,
+      "out_bytes": 636
+    },
+    {
+      "file": "task043.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 123,
+      "out_bytes": 123
+    },
+    {
+      "file": "task044.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 580,
+      "out_bytes": 940
+    },
+    {
+      "file": "task045.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 57,
+      "out_bytes": 57
+    },
+    {
+      "file": "task046.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 328,
+      "out_bytes": 492
+    },
+    {
+      "file": "task047.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 126,
+      "out_bytes": 126
+    },
+    {
+      "file": "task048.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 180,
+      "out_bytes": 180
+    },
+    {
+      "file": "task049.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 187,
+      "out_bytes": 187
+    },
+    {
+      "file": "task050.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 192,
+      "out_bytes": 192
+    },
+    {
+      "file": "task051.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 283,
+      "out_bytes": 314
+    },
+    {
+      "file": "task052.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 42,
+      "out_bytes": 42
+    },
+    {
+      "file": "task053.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 24,
+      "out_bytes": 24
+    },
+    {
+      "file": "task054.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 496,
+      "out_bytes": 779
+    },
+    {
+      "file": "task055.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 233,
+      "out_bytes": 253
+    },
+    {
+      "file": "task056.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 76,
+      "out_bytes": 76
+    },
+    {
+      "file": "task057.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 68,
+      "out_bytes": 68
+    },
+    {
+      "file": "task058.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 200,
+      "out_bytes": 200
+    },
+    {
+      "file": "task059.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 244,
+      "out_bytes": 252
+    },
+    {
+      "file": "task060.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 57,
+      "out_bytes": 57
+    },
+    {
+      "file": "task061.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 257,
+      "out_bytes": 380
+    },
+    {
+      "file": "task062.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 290,
+      "out_bytes": 419
+    },
+    {
+      "file": "task063.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 137,
+      "out_bytes": 137
+    },
+    {
+      "file": "task064.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 384,
+      "out_bytes": 628
+    },
+    {
+      "file": "task065.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 153,
+      "out_bytes": 153
+    },
+    {
+      "file": "task066.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 599,
+      "out_bytes": 1098
+    },
+    {
+      "file": "task067.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 33,
+      "out_bytes": 33
+    },
+    {
+      "file": "task068.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 263,
+      "out_bytes": 348
+    },
+    {
+      "file": "task069.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 216,
+      "out_bytes": 273
+    },
+    {
+      "file": "task070.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 164,
+      "out_bytes": 164
+    },
+    {
+      "file": "task071.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 450,
+      "out_bytes": 795
+    },
+    {
+      "file": "task072.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 73,
+      "out_bytes": 73
+    },
+    {
+      "file": "task073.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 76,
+      "out_bytes": 76
+    },
+    {
+      "file": "task074.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 335,
+      "out_bytes": 521
+    },
+    {
+      "file": "task075.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 204,
+      "out_bytes": 209
+    },
+    {
+      "file": "task076.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 420,
+      "out_bytes": 601
+    },
+    {
+      "file": "task077.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 558,
+      "out_bytes": 1045
+    },
+    {
+      "file": "task078.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 102,
+      "out_bytes": 102
+    },
+    {
+      "file": "task079.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 240,
+      "out_bytes": 291
+    },
+    {
+      "file": "task080.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 435,
+      "out_bytes": 712
+    },
+    {
+      "file": "task081.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 155,
+      "out_bytes": 155
+    },
+    {
+      "file": "task082.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 109,
+      "out_bytes": 109
+    },
+    {
+      "file": "task083.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 40,
+      "out_bytes": 40
+    },
+    {
+      "file": "task084.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 72,
+      "out_bytes": 72
+    },
+    {
+      "file": "task085.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 89,
+      "out_bytes": 89
+    },
+    {
+      "file": "task086.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 478,
+      "out_bytes": 867
+    },
+    {
+      "file": "task087.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 36,
+      "out_bytes": 36
+    },
+    {
+      "file": "task088.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 197,
+      "out_bytes": 197
+    },
+    {
+      "file": "task089.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 543,
+      "out_bytes": 936
+    },
+    {
+      "file": "task090.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 275,
+      "out_bytes": 417
+    },
+    {
+      "file": "task091.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 124,
+      "out_bytes": 124
+    },
+    {
+      "file": "task092.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 189,
+      "out_bytes": 189
+    },
+    {
+      "file": "task093.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 261,
+      "out_bytes": 360
+    },
+    {
+      "file": "task094.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 242,
+      "out_bytes": 328
+    },
+    {
+      "file": "task095.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 110,
+      "out_bytes": 110
+    },
+    {
+      "file": "task096.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 796,
+      "out_bytes": 1501
+    },
+    {
+      "file": "task097.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 262,
+      "out_bytes": 359
+    },
+    {
+      "file": "task098.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 162,
+      "out_bytes": 162
+    },
+    {
+      "file": "task099.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 491,
+      "out_bytes": 838
+    },
+    {
+      "file": "task100.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 154,
+      "out_bytes": 154
+    },
+    {
+      "file": "task101.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 529,
+      "out_bytes": 790
+    },
+    {
+      "file": "task102.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 505,
+      "out_bytes": 912
+    },
+    {
+      "file": "task103.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 38,
+      "out_bytes": 38
+    },
+    {
+      "file": "task104.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 153,
+      "out_bytes": 153
+    },
+    {
+      "file": "task105.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 382,
+      "out_bytes": 649
+    },
+    {
+      "file": "task106.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 97,
+      "out_bytes": 97
+    },
+    {
+      "file": "task107.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 307,
+      "out_bytes": 416
+    },
+    {
+      "file": "task108.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 176,
+      "out_bytes": 176
+    },
+    {
+      "file": "task109.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 193,
+      "out_bytes": 193
+    },
+    {
+      "file": "task110.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 201,
+      "out_bytes": 201
+    },
+    {
+      "file": "task111.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 98,
+      "out_bytes": 98
+    },
+    {
+      "file": "task112.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 181,
+      "out_bytes": 198
+    },
+    {
+      "file": "task113.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 28,
+      "out_bytes": 28
+    },
+    {
+      "file": "task114.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 100,
+      "out_bytes": 100
+    },
+    {
+      "file": "task115.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 113,
+      "out_bytes": 113
+    },
+    {
+      "file": "task116.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 20,
+      "out_bytes": 20
+    },
+    {
+      "file": "task117.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 882,
+      "out_bytes": 2190
+    },
+    {
+      "file": "task118.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 280,
+      "out_bytes": 416
+    },
+    {
+      "file": "task119.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 275,
+      "out_bytes": 280
+    },
+    {
+      "file": "task120.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 338,
+      "out_bytes": 532
+    },
+    {
+      "file": "task121.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 231,
+      "out_bytes": 296
+    },
+    {
+      "file": "task122.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 214,
+      "out_bytes": 387
+    },
+    {
+      "file": "task123.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 163,
+      "out_bytes": 163
+    },
+    {
+      "file": "task124.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 270,
+      "out_bytes": 302
+    },
+    {
+      "file": "task125.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 264,
+      "out_bytes": 428
+    },
+    {
+      "file": "task126.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 185,
+      "out_bytes": 210
+    },
+    {
+      "file": "task127.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 178,
+      "out_bytes": 178
+    },
+    {
+      "file": "task128.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 176,
+      "out_bytes": 176
+    },
+    {
+      "file": "task129.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 50,
+      "out_bytes": 50
+    },
+    {
+      "file": "task130.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 123,
+      "out_bytes": 123
+    },
+    {
+      "file": "task131.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 258,
+      "out_bytes": 308
+    },
+    {
+      "file": "task132.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 239,
+      "out_bytes": 305
+    },
+    {
+      "file": "task133.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 321,
+      "out_bytes": 467
+    },
+    {
+      "file": "task134.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 235,
+      "out_bytes": 235
+    },
+    {
+      "file": "task135.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 33,
+      "out_bytes": 33
+    },
+    {
+      "file": "task136.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 215,
+      "out_bytes": 233
+    },
+    {
+      "file": "task137.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 383,
+      "out_bytes": 649
+    },
+    {
+      "file": "task138.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 285,
+      "out_bytes": 362
+    },
+    {
+      "file": "task139.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 240,
+      "out_bytes": 283
+    },
+    {
+      "file": "task140.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 36,
+      "out_bytes": 36
+    },
+    {
+      "file": "task141.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 132,
+      "out_bytes": 132
+    },
+    {
+      "file": "task142.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 45,
+      "out_bytes": 45
+    },
+    {
+      "file": "task143.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 369,
+      "out_bytes": 655
+    },
+    {
+      "file": "task144.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 73,
+      "out_bytes": 73
+    },
+    {
+      "file": "task145.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 371,
+      "out_bytes": 572
+    },
+    {
+      "file": "task146.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 138,
+      "out_bytes": 138
+    },
+    {
+      "file": "task147.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 213,
+      "out_bytes": 227
+    },
+    {
+      "file": "task148.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 276,
+      "out_bytes": 426
+    },
+    {
+      "file": "task149.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 182,
+      "out_bytes": 188
+    },
+    {
+      "file": "task150.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 30,
+      "out_bytes": 30
+    },
+    {
+      "file": "task151.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 134,
+      "out_bytes": 134
+    },
+    {
+      "file": "task152.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 45,
+      "out_bytes": 45
+    },
+    {
+      "file": "task153.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 304,
+      "out_bytes": 460
+    },
+    {
+      "file": "task154.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 193,
+      "out_bytes": 193
+    },
+    {
+      "file": "task155.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 18,
+      "out_bytes": 18
+    },
+    {
+      "file": "task156.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 252,
+      "out_bytes": 357
+    },
+    {
+      "file": "task157.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 247,
+      "out_bytes": 274
+    },
+    {
+      "file": "task158.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 325,
+      "out_bytes": 510
+    },
+    {
+      "file": "task159.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 328,
+      "out_bytes": 476
+    },
+    {
+      "file": "task160.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 208,
+      "out_bytes": 262
+    },
+    {
+      "file": "task161.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 299,
+      "out_bytes": 431
+    },
+    {
+      "file": "task162.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 146,
+      "out_bytes": 146
+    },
+    {
+      "file": "task163.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 219,
+      "out_bytes": 326
+    },
+    {
+      "file": "task164.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 32,
+      "out_bytes": 32
+    },
+    {
+      "file": "task165.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 197,
+      "out_bytes": 197
+    },
+    {
+      "file": "task166.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 192,
+      "out_bytes": 250
+    },
+    {
+      "file": "task167.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 127,
+      "out_bytes": 127
+    },
+    {
+      "file": "task168.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 267,
+      "out_bytes": 340
+    },
+    {
+      "file": "task169.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 270,
+      "out_bytes": 280
+    },
+    {
+      "file": "task170.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 251,
+      "out_bytes": 256
+    },
+    {
+      "file": "task171.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 90,
+      "out_bytes": 90
+    },
+    {
+      "file": "task172.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 20,
+      "out_bytes": 20
+    },
+    {
+      "file": "task173.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 222,
+      "out_bytes": 313
+    },
+    {
+      "file": "task174.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 269,
+      "out_bytes": 341
+    },
+    {
+      "file": "task175.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 174,
+      "out_bytes": 174
+    },
+    {
+      "file": "task176.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 139,
+      "out_bytes": 139
+    },
+    {
+      "file": "task177.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 155,
+      "out_bytes": 155
+    },
+    {
+      "file": "task178.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 68,
+      "out_bytes": 68
+    },
+    {
+      "file": "task179.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 21,
+      "out_bytes": 21
+    },
+    {
+      "file": "task180.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 91,
+      "out_bytes": 91
+    },
+    {
+      "file": "task181.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 99,
+      "out_bytes": 99
+    },
+    {
+      "file": "task182.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 564,
+      "out_bytes": 949
+    },
+    {
+      "file": "task183.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 211,
+      "out_bytes": 225
+    },
+    {
+      "file": "task184.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 277,
+      "out_bytes": 385
+    },
+    {
+      "file": "task185.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 354,
+      "out_bytes": 924
+    },
+    {
+      "file": "task186.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 107,
+      "out_bytes": 107
+    },
+    {
+      "file": "task187.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 157,
+      "out_bytes": 157
+    },
+    {
+      "file": "task188.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 113,
+      "out_bytes": 113
+    },
+    {
+      "file": "task189.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 214,
+      "out_bytes": 247
+    },
+    {
+      "file": "task190.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 273,
+      "out_bytes": 412
+    },
+    {
+      "file": "task191.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 690,
+      "out_bytes": 1573
+    },
+    {
+      "file": "task192.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 348,
+      "out_bytes": 559
+    },
+    {
+      "file": "task193.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 162,
+      "out_bytes": 162
+    },
+    {
+      "file": "task194.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 117,
+      "out_bytes": 117
+    },
+    {
+      "file": "task195.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 250,
+      "out_bytes": 316
+    },
+    {
+      "file": "task196.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 153,
+      "out_bytes": 153
+    },
+    {
+      "file": "task197.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 235,
+      "out_bytes": 285
+    },
+    {
+      "file": "task198.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 291,
+      "out_bytes": 440
+    },
+    {
+      "file": "task199.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 163,
+      "out_bytes": 163
+    },
+    {
+      "file": "task200.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 188,
+      "out_bytes": 190
+    },
+    {
+      "file": "task201.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 332,
+      "out_bytes": 489
+    },
+    {
+      "file": "task202.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 370,
+      "out_bytes": 671
+    },
+    {
+      "file": "task203.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 154,
+      "out_bytes": 154
+    },
+    {
+      "file": "task204.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 395,
+      "out_bytes": 580
+    },
+    {
+      "file": "task205.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 598,
+      "out_bytes": 1294
+    },
+    {
+      "file": "task206.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 525,
+      "out_bytes": 866
+    },
+    {
+      "file": "task207.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 205,
+      "out_bytes": 270
+    },
+    {
+      "file": "task208.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 499,
+      "out_bytes": 902
+    },
+    {
+      "file": "task209.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 825,
+      "out_bytes": 1923
+    },
+    {
+      "file": "task210.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 20,
+      "out_bytes": 20
+    },
+    {
+      "file": "task211.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 63,
+      "out_bytes": 63
+    },
+    {
+      "file": "task212.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 215,
+      "out_bytes": 351
+    },
+    {
+      "file": "task213.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 270,
+      "out_bytes": 360
+    },
+    {
+      "file": "task214.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 162,
+      "out_bytes": 162
+    },
+    {
+      "file": "task215.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 86,
+      "out_bytes": 86
+    },
+    {
+      "file": "task216.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 305,
+      "out_bytes": 393
+    },
+    {
+      "file": "task217.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 189,
+      "out_bytes": 189
+    },
+    {
+      "file": "task218.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 277,
+      "out_bytes": 396
+    },
+    {
+      "file": "task219.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 975,
+      "out_bytes": 2107
+    },
+    {
+      "file": "task220.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 198,
+      "out_bytes": 198
+    },
+    {
+      "file": "task221.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 182,
+      "out_bytes": 182
+    },
+    {
+      "file": "task222.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 232,
+      "out_bytes": 280
+    },
+    {
+      "file": "task223.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 79,
+      "out_bytes": 79
+    },
+    {
+      "file": "task224.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 248,
+      "out_bytes": 333
+    },
+    {
+      "file": "task225.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 244,
+      "out_bytes": 301
+    },
+    {
+      "file": "task226.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 231,
+      "out_bytes": 262
+    },
+    {
+      "file": "task227.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 72,
+      "out_bytes": 72
+    },
+    {
+      "file": "task228.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 244,
+      "out_bytes": 301
+    },
+    {
+      "file": "task229.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 96,
+      "out_bytes": 96
+    },
+    {
+      "file": "task230.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 186,
+      "out_bytes": 194
+    },
+    {
+      "file": "task231.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 75,
+      "out_bytes": 75
+    },
+    {
+      "file": "task232.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 109,
+      "out_bytes": 109
+    },
+    {
+      "file": "task233.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 370,
+      "out_bytes": 561
+    },
+    {
+      "file": "task234.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 119,
+      "out_bytes": 119
+    },
+    {
+      "file": "task235.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 78,
+      "out_bytes": 78
+    },
+    {
+      "file": "task236.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 138,
+      "out_bytes": 138
+    },
+    {
+      "file": "task237.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 184,
+      "out_bytes": 213
+    },
+    {
+      "file": "task238.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 991,
+      "out_bytes": 2174
+    },
+    {
+      "file": "task239.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 207,
+      "out_bytes": 212
+    },
+    {
+      "file": "task240.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 225,
+      "out_bytes": 270
+    },
+    {
+      "file": "task241.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 21,
+      "out_bytes": 21
+    },
+    {
+      "file": "task242.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 233,
+      "out_bytes": 311
+    },
+    {
+      "file": "task243.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 169,
+      "out_bytes": 169
+    },
+    {
+      "file": "task244.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 199,
+      "out_bytes": 199
+    },
+    {
+      "file": "task245.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 297,
+      "out_bytes": 479
+    },
+    {
+      "file": "task246.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 203,
+      "out_bytes": 243
+    },
+    {
+      "file": "task247.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 188,
+      "out_bytes": 188
+    },
+    {
+      "file": "task248.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 145,
+      "out_bytes": 145
+    },
+    {
+      "file": "task249.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 26,
+      "out_bytes": 26
+    },
+    {
+      "file": "task250.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 259,
+      "out_bytes": 326
+    },
+    {
+      "file": "task251.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 295,
+      "out_bytes": 419
+    },
+    {
+      "file": "task252.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 140,
+      "out_bytes": 140
+    },
+    {
+      "file": "task253.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 233,
+      "out_bytes": 374
+    },
+    {
+      "file": "task254.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 217,
+      "out_bytes": 266
+    },
+    {
+      "file": "task255.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 668,
+      "out_bytes": 1172
+    },
+    {
+      "file": "task256.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 177,
+      "out_bytes": 177
+    },
+    {
+      "file": "task257.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 165,
+      "out_bytes": 192
+    },
+    {
+      "file": "task258.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 87,
+      "out_bytes": 87
+    },
+    {
+      "file": "task259.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 204,
+      "out_bytes": 219
+    },
+    {
+      "file": "task260.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 209,
+      "out_bytes": 209
+    },
+    {
+      "file": "task261.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 82,
+      "out_bytes": 82
+    },
+    {
+      "file": "task262.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 46,
+      "out_bytes": 46
+    },
+    {
+      "file": "task263.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 199,
+      "out_bytes": 263
+    },
+    {
+      "file": "task264.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 280,
+      "out_bytes": 286
+    },
+    {
+      "file": "task265.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 238,
+      "out_bytes": 311
+    },
+    {
+      "file": "task266.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 172,
+      "out_bytes": 172
+    },
+    {
+      "file": "task267.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 72,
+      "out_bytes": 72
+    },
+    {
+      "file": "task268.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 322,
+      "out_bytes": 458
+    },
+    {
+      "file": "task269.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 105,
+      "out_bytes": 105
+    },
+    {
+      "file": "task270.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 223,
+      "out_bytes": 240
+    },
+    {
+      "file": "task271.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 208,
+      "out_bytes": 208
+    },
+    {
+      "file": "task272.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 168,
+      "out_bytes": 168
+    },
+    {
+      "file": "task273.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 158,
+      "out_bytes": 158
+    },
+    {
+      "file": "task274.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 165,
+      "out_bytes": 165
+    },
+    {
+      "file": "task275.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 197,
+      "out_bytes": 199
+    },
+    {
+      "file": "task276.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 48,
+      "out_bytes": 48
+    },
+    {
+      "file": "task277.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 453,
+      "out_bytes": 858
+    },
+    {
+      "file": "task278.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 236,
+      "out_bytes": 353
+    },
+    {
+      "file": "task279.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 470,
+      "out_bytes": 770
+    },
+    {
+      "file": "task280.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 899,
+      "out_bytes": 1822
+    },
+    {
+      "file": "task281.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 253,
+      "out_bytes": 261
+    },
+    {
+      "file": "task282.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 156,
+      "out_bytes": 156
+    },
+    {
+      "file": "task283.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 266,
+      "out_bytes": 361
+    },
+    {
+      "file": "task284.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 921,
+      "out_bytes": 1805
+    },
+    {
+      "file": "task285.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 407,
+      "out_bytes": 567
+    },
+    {
+      "file": "task286.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 267,
+      "out_bytes": 338
+    },
+    {
+      "file": "task287.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 149,
+      "out_bytes": 149
+    },
+    {
+      "file": "task288.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 119,
+      "out_bytes": 119
+    },
+    {
+      "file": "task289.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 92,
+      "out_bytes": 92
+    },
+    {
+      "file": "task290.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 111,
+      "out_bytes": 111
+    },
+    {
+      "file": "task291.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 110,
+      "out_bytes": 110
+    },
+    {
+      "file": "task292.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 69,
+      "out_bytes": 69
+    },
+    {
+      "file": "task293.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 108,
+      "out_bytes": 108
+    },
+    {
+      "file": "task294.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 120,
+      "out_bytes": 120
+    },
+    {
+      "file": "task295.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 106,
+      "out_bytes": 106
+    },
+    {
+      "file": "task296.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 92,
+      "out_bytes": 92
+    },
+    {
+      "file": "task297.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 72,
+      "out_bytes": 72
+    },
+    {
+      "file": "task298.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 104,
+      "out_bytes": 104
+    },
+    {
+      "file": "task299.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 138,
+      "out_bytes": 138
+    },
+    {
+      "file": "task300.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 168,
+      "out_bytes": 168
+    },
+    {
+      "file": "task301.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 38,
+      "out_bytes": 38
+    },
+    {
+      "file": "task302.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 383,
+      "out_bytes": 513
+    },
+    {
+      "file": "task303.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 176,
+      "out_bytes": 176
+    },
+    {
+      "file": "task304.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 237,
+      "out_bytes": 245
+    },
+    {
+      "file": "task305.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 187,
+      "out_bytes": 191
+    },
+    {
+      "file": "task306.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 263,
+      "out_bytes": 623
+    },
+    {
+      "file": "task307.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 73,
+      "out_bytes": 73
+    },
+    {
+      "file": "task308.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 404,
+      "out_bytes": 650
+    },
+    {
+      "file": "task309.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 45,
+      "out_bytes": 45
+    },
+    {
+      "file": "task310.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 264,
+      "out_bytes": 330
+    },
+    {
+      "file": "task311.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 32,
+      "out_bytes": 32
+    },
+    {
+      "file": "task312.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 80,
+      "out_bytes": 80
+    },
+    {
+      "file": "task313.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 215,
+      "out_bytes": 224
+    },
+    {
+      "file": "task314.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 376,
+      "out_bytes": 558
+    },
+    {
+      "file": "task315.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 76,
+      "out_bytes": 76
+    },
+    {
+      "file": "task316.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 139,
+      "out_bytes": 139
+    },
+    {
+      "file": "task317.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 193,
+      "out_bytes": 210
+    },
+    {
+      "file": "task318.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 80,
+      "out_bytes": 80
+    },
+    {
+      "file": "task319.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 480,
+      "out_bytes": 616
+    },
+    {
+      "file": "task320.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 160,
+      "out_bytes": 160
+    },
+    {
+      "file": "task321.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 150,
+      "out_bytes": 150
+    },
+    {
+      "file": "task322.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 132,
+      "out_bytes": 132
+    },
+    {
+      "file": "task323.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 245,
+      "out_bytes": 324
+    },
+    {
+      "file": "task324.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 897,
+      "out_bytes": 1737
+    },
+    {
+      "file": "task325.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 236,
+      "out_bytes": 272
+    },
+    {
+      "file": "task326.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 32,
+      "out_bytes": 32
+    },
+    {
+      "file": "task327.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 67,
+      "out_bytes": 67
+    },
+    {
+      "file": "task328.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 175,
+      "out_bytes": 175
+    },
+    {
+      "file": "task329.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 103,
+      "out_bytes": 103
+    },
+    {
+      "file": "task330.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 172,
+      "out_bytes": 172
+    },
+    {
+      "file": "task331.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 198,
+      "out_bytes": 207
+    },
+    {
+      "file": "task332.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 106,
+      "out_bytes": 106
+    },
+    {
+      "file": "task333.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 217,
+      "out_bytes": 234
+    },
+    {
+      "file": "task334.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 141,
+      "out_bytes": 141
+    },
+    {
+      "file": "task335.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 206,
+      "out_bytes": 206
+    },
+    {
+      "file": "task336.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 243,
+      "out_bytes": 243
+    },
+    {
+      "file": "task337.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 51,
+      "out_bytes": 51
+    },
+    {
+      "file": "task338.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 157,
+      "out_bytes": 157
+    },
+    {
+      "file": "task339.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 39,
+      "out_bytes": 39
+    },
+    {
+      "file": "task340.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 215,
+      "out_bytes": 230
+    },
+    {
+      "file": "task341.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 226,
+      "out_bytes": 238
+    },
+    {
+      "file": "task342.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 207,
+      "out_bytes": 223
+    },
+    {
+      "file": "task343.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 65,
+      "out_bytes": 65
+    },
+    {
+      "file": "task344.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 190,
+      "out_bytes": 190
+    },
+    {
+      "file": "task345.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 155,
+      "out_bytes": 155
+    },
+    {
+      "file": "task346.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 133,
+      "out_bytes": 133
+    },
+    {
+      "file": "task347.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 120,
+      "out_bytes": 120
+    },
+    {
+      "file": "task348.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 206,
+      "out_bytes": 221
+    },
+    {
+      "file": "task349.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 529,
+      "out_bytes": 1082
+    },
+    {
+      "file": "task350.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 244,
+      "out_bytes": 348
+    },
+    {
+      "file": "task351.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 248,
+      "out_bytes": 421
+    },
+    {
+      "file": "task352.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 211,
+      "out_bytes": 250
+    },
+    {
+      "file": "task353.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 144,
+      "out_bytes": 144
+    },
+    {
+      "file": "task354.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 217,
+      "out_bytes": 234
+    },
+    {
+      "file": "task355.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 166,
+      "out_bytes": 166
+    },
+    {
+      "file": "task356.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 238,
+      "out_bytes": 323
+    },
+    {
+      "file": "task357.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 175,
+      "out_bytes": 175
+    },
+    {
+      "file": "task358.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 213,
+      "out_bytes": 213
+    },
+    {
+      "file": "task359.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 64,
+      "out_bytes": 64
+    },
+    {
+      "file": "task360.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 106,
+      "out_bytes": 106
+    },
+    {
+      "file": "task361.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 221,
+      "out_bytes": 244
+    },
+    {
+      "file": "task362.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 127,
+      "out_bytes": 127
+    },
+    {
+      "file": "task363.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 381,
+      "out_bytes": 565
+    },
+    {
+      "file": "task364.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 612,
+      "out_bytes": 1082
+    },
+    {
+      "file": "task365.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 176,
+      "out_bytes": 176
+    },
+    {
+      "file": "task366.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 374,
+      "out_bytes": 651
+    },
+    {
+      "file": "task367.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 558,
+      "out_bytes": 1098
+    },
+    {
+      "file": "task368.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 261,
+      "out_bytes": 366
+    },
+    {
+      "file": "task369.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 262,
+      "out_bytes": 283
+    },
+    {
+      "file": "task370.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 547,
+      "out_bytes": 926
+    },
+    {
+      "file": "task371.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 159,
+      "out_bytes": 159
+    },
+    {
+      "file": "task372.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 67,
+      "out_bytes": 67
+    },
+    {
+      "file": "task373.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 73,
+      "out_bytes": 73
+    },
+    {
+      "file": "task374.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 272,
+      "out_bytes": 367
+    },
+    {
+      "file": "task375.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 64,
+      "out_bytes": 64
+    },
+    {
+      "file": "task376.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 33,
+      "out_bytes": 33
+    },
+    {
+      "file": "task377.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 68,
+      "out_bytes": 68
+    },
+    {
+      "file": "task378.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 207,
+      "out_bytes": 207
+    },
+    {
+      "file": "task379.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 369,
+      "out_bytes": 572
+    },
+    {
+      "file": "task380.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 27,
+      "out_bytes": 27
+    },
+    {
+      "file": "task381.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 201,
+      "out_bytes": 205
+    },
+    {
+      "file": "task382.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 243,
+      "out_bytes": 304
+    },
+    {
+      "file": "task383.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 404,
+      "out_bytes": 663
+    },
+    {
+      "file": "task384.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 199,
+      "out_bytes": 222
+    },
+    {
+      "file": "task385.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 88,
+      "out_bytes": 88
+    },
+    {
+      "file": "task386.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 141,
+      "out_bytes": 141
+    },
+    {
+      "file": "task387.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 401,
+      "out_bytes": 645
+    },
+    {
+      "file": "task388.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 174,
+      "out_bytes": 190
+    },
+    {
+      "file": "task389.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 128,
+      "out_bytes": 128
+    },
+    {
+      "file": "task390.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 374,
+      "out_bytes": 732
+    },
+    {
+      "file": "task391.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 104,
+      "out_bytes": 104
+    },
+    {
+      "file": "task392.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 161,
+      "out_bytes": 161
+    },
+    {
+      "file": "task393.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 104,
+      "out_bytes": 104
+    },
+    {
+      "file": "task394.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 362,
+      "out_bytes": 698
+    },
+    {
+      "file": "task395.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 98,
+      "out_bytes": 98
+    },
+    {
+      "file": "task396.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 318,
+      "out_bytes": 552
+    },
+    {
+      "file": "task397.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 212,
+      "out_bytes": 247
+    },
+    {
+      "file": "task398.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 82,
+      "out_bytes": 82
+    },
+    {
+      "file": "task399.py",
+      "action": "copied",
+      "method": null,
+      "in_bytes": 178,
+      "out_bytes": 178
+    },
+    {
+      "file": "task400.py",
+      "action": "decompressed",
+      "method": "bytes-L1",
+      "in_bytes": 250,
+      "out_bytes": 425
+    }
+  ],
+  "summary": {
+    "total": 400,
+    "decompressed": 193,
+    "copied": 207,
+    "errors": 0
+  }
+}

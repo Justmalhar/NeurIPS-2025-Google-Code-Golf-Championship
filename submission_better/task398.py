@@ -1,0 +1,1 @@
+def p(r):R,=r;S=len({*R}-{0})*5;return[([0]*d+R+[0]*S)[:S]for d in range(S)][::-1]
